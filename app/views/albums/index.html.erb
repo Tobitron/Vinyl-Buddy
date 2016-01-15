@@ -7,15 +7,16 @@
         Album:<br>
         <input type="text" name="album">
         <div class="row">
-          <div class="small-4 small-centered column"><button class="button large">Get Album Info</button></div>
+          <div class="small-5 small-centered column"><button class="button large">Get Album Info*</button></div>
         </div>
       </form>
     </div>
   </div>
 
   <div class="results-container">
-    <p class="artist"><%= @artist %> - <%= @album %></p>
+    <p class="artist"><%= @artist %> <%= @album %></p>
     <span class="extra-info">Album Rating: </span><span class="answer"><%=@album_rating %></span> <br>
     <span class="extra-info">Average Price: </span><span class="answer"><%=@price_data %></span>
+    <p>*Make sure you spell the artist and album name correctly, it won't work if you don't.</p>
   </div>
 </div>

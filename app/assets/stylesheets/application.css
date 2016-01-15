@@ -31,16 +31,16 @@
   margin-top: 1.5em;
   margin-bottom: 2.5em;
   text-align: center;
-  font-size: 3em;
 }
 
 .artist {
+  font-size: 3em;
   color: orange;
   font-weight: bold;
 }
 
 .extra-info {
-
+  font-size: 3em;
 }
 
 .answer {
