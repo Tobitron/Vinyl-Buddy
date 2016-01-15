@@ -13,7 +13,6 @@ class AlbumsController < ApplicationController
   end
 
   def get_data(artist, album)
-    binding.pry
     wrapper = Discogs::Wrapper.new("Vinyl Buddy", user_token: ENV['DISCOGS_USER_TOKEN'])
 
     discogs_search = wrapper.search("#{@artist} - #{@album}")
@@ -41,7 +40,6 @@ class AlbumsController < ApplicationController
     username_form = login_page.forms[1].field_with(name: "username")
     password_form = login_page.forms[1].field_with(name: "password")
 
-    binding.pry
     username_form.value = ENV['DISCOGS_USER_NAME']
     password_form.value = ENV['DISCOGS_PASSWORD']
 
