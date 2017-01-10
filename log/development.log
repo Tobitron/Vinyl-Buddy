@@ -7924,3 +7924,2035 @@ Started GET "/assets/foundation.self-9e2a078724c35cb29f9c1d6c2894d45b03cf5349986
 
 
 Started GET "/assets/application.self-1509cb3433bf7f60a75710bd4d8561d25423676b3c4d4a21914940bf07b8869a.js?body=1" for ::1 at 2016-01-15 11:42:43 -0500
+
+
+Started GET "/" for ::1 at 2017-01-03 21:07:51 -0500
+  [1m[36mActiveRecord::SchemaMigration Load (2.8ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by AlbumsController#index as HTML
+  Rendered albums/index.html.erb within layouts/application (2.3ms)
+DEPRECATION WARNING on line 245 of /Users/tobiaskahn/.gem/ruby/2.2.3/gems/foundation-rails-6.1.1.1/vendor/assets/scss/util/_breakpoint.scss: #{} interpolation near operators will be simplified
+in a future version of Sass. To preserve the current behavior, use quotes:
+
+  unquote("screen and #{breakpoint(small only)}")
+
+You can use the sass-convert command to automatically fix most cases.
+
+
+DEPRECATION WARNING on line 249 of /Users/tobiaskahn/.gem/ruby/2.2.3/gems/foundation-rails-6.1.1.1/vendor/assets/scss/util/_breakpoint.scss: #{} interpolation near operators will be simplified
+in a future version of Sass. To preserve the current behavior, use quotes:
+
+  unquote("screen and #{breakpoint(medium)}")
+
+You can use the sass-convert command to automatically fix most cases.
+
+
+DEPRECATION WARNING on line 250 of /Users/tobiaskahn/.gem/ruby/2.2.3/gems/foundation-rails-6.1.1.1/vendor/assets/scss/util/_breakpoint.scss: #{} interpolation near operators will be simplified
+in a future version of Sass. To preserve the current behavior, use quotes:
+
+  unquote("screen and #{breakpoint(medium only)}")
+
+You can use the sass-convert command to automatically fix most cases.
+
+
+DEPRECATION WARNING on line 254 of /Users/tobiaskahn/.gem/ruby/2.2.3/gems/foundation-rails-6.1.1.1/vendor/assets/scss/util/_breakpoint.scss: #{} interpolation near operators will be simplified
+in a future version of Sass. To preserve the current behavior, use quotes:
+
+  unquote("screen and #{breakpoint(large)}")
+
+You can use the sass-convert command to automatically fix most cases.
+
+
+DEPRECATION WARNING on line 255 of /Users/tobiaskahn/.gem/ruby/2.2.3/gems/foundation-rails-6.1.1.1/vendor/assets/scss/util/_breakpoint.scss: #{} interpolation near operators will be simplified
+in a future version of Sass. To preserve the current behavior, use quotes:
+
+  unquote("screen and #{breakpoint(large only)}")
+
+You can use the sass-convert command to automatically fix most cases.
+
+
+DEPRECATION WARNING on line 259 of /Users/tobiaskahn/.gem/ruby/2.2.3/gems/foundation-rails-6.1.1.1/vendor/assets/scss/util/_breakpoint.scss: #{} interpolation near operators will be simplified
+in a future version of Sass. To preserve the current behavior, use quotes:
+
+  unquote("screen and #{breakpoint(xlarge)}")
+
+You can use the sass-convert command to automatically fix most cases.
+
+
+DEPRECATION WARNING on line 260 of /Users/tobiaskahn/.gem/ruby/2.2.3/gems/foundation-rails-6.1.1.1/vendor/assets/scss/util/_breakpoint.scss: #{} interpolation near operators will be simplified
+in a future version of Sass. To preserve the current behavior, use quotes:
+
+  unquote("screen and #{breakpoint(xlarge only)}")
+
+You can use the sass-convert command to automatically fix most cases.
+
+
+DEPRECATION WARNING on line 264 of /Users/tobiaskahn/.gem/ruby/2.2.3/gems/foundation-rails-6.1.1.1/vendor/assets/scss/util/_breakpoint.scss: #{} interpolation near operators will be simplified
+in a future version of Sass. To preserve the current behavior, use quotes:
+
+  unquote("screen and #{breakpoint(xxlarge)}")
+
+You can use the sass-convert command to automatically fix most cases.
+
+
+DEPRECATION WARNING on line 265 of /Users/tobiaskahn/.gem/ruby/2.2.3/gems/foundation-rails-6.1.1.1/vendor/assets/scss/util/_breakpoint.scss: #{} interpolation near operators will be simplified
+in a future version of Sass. To preserve the current behavior, use quotes:
+
+  unquote("screen and #{breakpoint(xxlarge only)}")
+
+You can use the sass-convert command to automatically fix most cases.
+
+
+Completed 200 OK in 5639ms (Views: 5638.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/_settings.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2017-01-03 21:07:57 -0500
+
+
+Started GET "/assets/application.self-b08fa7117c885cd50aa531cd3d2f190a119b4ba9b19ca2b32df41d8e73616534.css?body=1" for ::1 at 2017-01-03 21:07:57 -0500
+
+
+Started GET "/assets/jquery.self-c64a74367bda6ef8b860f19e74df08927ca99d2be2ac934e9e92d5fd361e0da4.js?body=1" for ::1 at 2017-01-03 21:07:57 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d602bdfe68ffc63b9f9cc512872aa3cfff046228a0a36e90dd476e8ef54c1b09.js?body=1" for ::1 at 2017-01-03 21:07:57 -0500
+
+
+Started GET "/assets/foundation.core.self-9db1fd25093ee6a0c24fc7b93e9fbc59e1c644cc4d15b9ed07ecbac0f20d2626.js?body=1" for ::1 at 2017-01-03 21:07:57 -0500
+
+
+Started GET "/assets/foundation_and_overrides.self-3d4fab0ef7a5ff4b10fcf9f9348a2b2a3cc5d4156622f5d0c93df1a7b3347669.css?body=1" for ::1 at 2017-01-03 21:07:57 -0500
+
+
+Started GET "/assets/foundation.accordion.self-9df5b77ee1499f87e2ceec1fa9aef606360cbb33cde0267550c770c8a2a1defa.js?body=1" for ::1 at 2017-01-03 21:07:57 -0500
+
+
+Started GET "/assets/foundation.accordionMenu.self-a3ef925cbb8b5d088243405584d3b27e7ed5b9a0dc008e7e77e6b1080510d4ba.js?body=1" for ::1 at 2017-01-03 21:07:57 -0500
+
+
+Started GET "/assets/foundation.drilldown.self-a9e0067ba5d8fd8d75672ab19982ed5c329d74dd75cb30f00e856e0e0fabe2ee.js?body=1" for ::1 at 2017-01-03 21:07:57 -0500
+
+
+Started GET "/assets/foundation.dropdown.self-90806ac07a897f7e37fbdaf2583a71abcb2ed8424be8acd986c9c73116452cd2.js?body=1" for ::1 at 2017-01-03 21:07:57 -0500
+
+
+Started GET "/assets/foundation.dropdownMenu.self-96b39073b4be2185836ae4b20bf54c0473d7a7e3317799346891d212077af60f.js?body=1" for ::1 at 2017-01-03 21:07:57 -0500
+
+
+Started GET "/assets/foundation.abide.self-51a84bc6ba490a942393bca712c6e7cd9916fc4dc64a7693a8e068cd96085822.js?body=1" for ::1 at 2017-01-03 21:07:57 -0500
+
+
+Started GET "/assets/foundation.equalizer.self-b0bce90e5c28fc371ca163f9a09af8ea7f7a314420da9dc42b0db6e2ff8b090a.js?body=1" for ::1 at 2017-01-03 21:07:57 -0500
+
+
+Started GET "/assets/foundation.interchange.self-f8cb0c8683255d5f7725537dbefa4315ae27e23edf50952c094f78c60f5d7c13.js?body=1" for ::1 at 2017-01-03 21:07:57 -0500
+
+
+Started GET "/assets/foundation.offcanvas.self-b4b82021c3f2fffc3806622f157c39f2fba47b6ba3f465314e431b5fad3cdd19.js?body=1" for ::1 at 2017-01-03 21:07:57 -0500
+
+
+Started GET "/assets/foundation.magellan.self-92f91ef33806348a194e02af23e0aae555a6b5b8299aeac64925c4102c8e2c8a.js?body=1" for ::1 at 2017-01-03 21:07:57 -0500
+
+
+Started GET "/assets/foundation.orbit.self-ee8eaad4d64ae4fbb802c18eb872041b2c495ae8d5dfcecaad94685fd8eaed96.js?body=1" for ::1 at 2017-01-03 21:07:57 -0500
+
+
+Started GET "/assets/foundation.responsiveToggle.self-43c40897f3d624778a467deae3abff377aa4acd0f9543e007072e653149fec21.js?body=1" for ::1 at 2017-01-03 21:07:57 -0500
+
+
+Started GET "/assets/foundation.responsiveMenu.self-51a47c4ccfbb000f4191e3e78f12786b2286291c38fec15c8acf02df5cbf0fbc.js?body=1" for ::1 at 2017-01-03 21:07:57 -0500
+
+
+Started GET "/assets/foundation.reveal.self-0e230493fd98119c97ce28fbe7c408408f6b7dd4359470e87dd718c372b56199.js?body=1" for ::1 at 2017-01-03 21:07:57 -0500
+
+
+Started GET "/assets/foundation.tabs.self-9b927908963944f3d531d47080e724fb3bcec8abb988d1496a3d0aaa3ffc03a7.js?body=1" for ::1 at 2017-01-03 21:07:57 -0500
+
+
+Started GET "/assets/foundation.util.box.self-69c9095c26be30b9b796ec4cc22eb2a694e5c38f5177bcc7b0f7e332c41758b3.js?body=1" for ::1 at 2017-01-03 21:07:57 -0500
+
+
+Started GET "/assets/foundation.toggler.self-f3dadc2f36d0f19fa8312317cda8c4a8a76a02d62832a6e00caae56d0c55ee28.js?body=1" for ::1 at 2017-01-03 21:07:57 -0500
+
+
+Started GET "/assets/foundation.tooltip.self-7fc36e11e6027270359e3a6936984e4e9a02fbf94e0fcf23c67624f936fb30c8.js?body=1" for ::1 at 2017-01-03 21:07:57 -0500
+
+
+Started GET "/assets/foundation.slider.self-ecb2b1fe3b0cbfd8ed61991b73c4b2cf395342326205391b36a8f44bd8cf5a1c.js?body=1" for ::1 at 2017-01-03 21:07:57 -0500
+
+
+Started GET "/assets/foundation.sticky.self-5ea10bd37a762229edc48713b5c1e31bee363eb4d186d64e1404808dfe145374.js?body=1" for ::1 at 2017-01-03 21:07:57 -0500
+
+
+Started GET "/assets/foundation.util.keyboard.self-2f631ccc194566cde321c90ff1cf9533bcf5838943e6409c73d9c2afd8dfcfc8.js?body=1" for ::1 at 2017-01-03 21:07:57 -0500
+
+
+Started GET "/assets/foundation.util.mediaQuery.self-5db511bec350118db796cd1d02a28f1273b220b149d4022dbd639bba01a1fb2b.js?body=1" for ::1 at 2017-01-03 21:07:57 -0500
+
+
+Started GET "/assets/foundation.util.nest.self-8a2827a3484912cdf52070c3245611d0f36e9c4aa790f2558f2271f8adb94e38.js?body=1" for ::1 at 2017-01-03 21:07:57 -0500
+
+
+Started GET "/assets/foundation.util.motion.self-96f5145345f69a7fc9dfc03a47c96917fc09c88cd79cf67475a89ea965a3e0ec.js?body=1" for ::1 at 2017-01-03 21:07:57 -0500
+
+
+Started GET "/assets/foundation.util.timerAndImageLoader.self-ba42986e203ad89e201ed29d1419b921ef4e9852cc5f2a801347d370a5778c56.js?body=1" for ::1 at 2017-01-03 21:07:57 -0500
+
+
+Started GET "/assets/foundation.util.touch.self-8412fbfe24d1053f3dc12c80ab0ff3dc1524d69de0e154b158c5a6ff0d16d78e.js?body=1" for ::1 at 2017-01-03 21:07:57 -0500
+
+
+Started GET "/assets/foundation.util.triggers.self-5d93ae068164fc4cc4c3e9a8c8cb98bce5922d63594acf8f7225f49a11780535.js?body=1" for ::1 at 2017-01-03 21:07:57 -0500
+
+
+Started GET "/assets/foundation.self-9e2a078724c35cb29f9c1d6c2894d45b03cf53499867de8494fe8e6a0f52d1bf.js?body=1" for ::1 at 2017-01-03 21:07:57 -0500
+
+
+Started GET "/assets/application.self-1509cb3433bf7f60a75710bd4d8561d25423676b3c4d4a21914940bf07b8869a.js?body=1" for ::1 at 2017-01-03 21:07:57 -0500
+
+
+Started GET "/?artist=The+Rolling+Stones&album=Sticky+Fingers" for ::1 at 2017-01-03 21:08:30 -0500
+Processing by AlbumsController#index as HTML
+  Parameters: {"artist"=>"The Rolling Stones", "album"=>"Sticky Fingers"}
+Completed 500 Internal Server Error in 3384ms (ActiveRecord: 0.0ms)
+
+NoMethodError (undefined method `field_with' for nil:NilClass):
+  app/controllers/albums_controller.rb:40:in `get_data'
+  app/controllers/albums_controller.rb:7:in `index'
+
+
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_source.erb (10.6ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.2ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.7ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (89.4ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/_markup.html.erb (0.5ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.4ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.4ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.4ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/console.js.erb within layouts/javascript (59.8ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/main.js.erb within layouts/javascript (0.3ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.6ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/index.html.erb (136.0ms)
+
+
+Started GET "/?artist=Rolling+Stones&album=Sticky+Fingers" for ::1 at 2017-01-03 21:12:30 -0500
+  [1m[36mActiveRecord::SchemaMigration Load (0.8ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by AlbumsController#index as HTML
+  Parameters: {"artist"=>"Rolling Stones", "album"=>"Sticky Fingers"}
+Completed 500 Internal Server Error in 2924ms (ActiveRecord: 0.0ms)
+
+NoMethodError (undefined method `field_with' for nil:NilClass):
+  app/controllers/albums_controller.rb:40:in `get_data'
+  app/controllers/albums_controller.rb:7:in `index'
+
+
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_source.erb (13.3ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (4.2ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (18.1ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (140.1ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/_markup.html.erb (0.4ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.5ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.5ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.5ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/console.js.erb within layouts/javascript (69.9ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/main.js.erb within layouts/javascript (0.5ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.8ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/index.html.erb (163.3ms)
+
+
+Started GET "/" for ::1 at 2017-01-03 21:12:58 -0500
+Processing by AlbumsController#index as HTML
+  Rendered albums/index.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 610ms (Views: 609.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/?artist=The+Rolling+Stones&album=Sticking+Fingres" for ::1 at 2017-01-03 21:13:06 -0500
+Processing by AlbumsController#index as HTML
+  Parameters: {"artist"=>"The Rolling Stones", "album"=>"Sticking Fingres"}
+Completed 500 Internal Server Error in 578ms (ActiveRecord: 0.0ms)
+
+NoMethodError (undefined method `type' for nil:NilClass):
+  app/controllers/albums_controller.rb:27:in `get_data'
+  app/controllers/albums_controller.rb:7:in `index'
+
+
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_source.erb (13.1ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (7.2ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (3.9ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (94.5ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/_markup.html.erb (1.8ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (2.2ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (1.3ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/style.css.erb within layouts/inlined_string (4.2ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/console.js.erb within layouts/javascript (80.1ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/main.js.erb within layouts/javascript (3.6ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/error_page.js.erb within layouts/javascript (1.7ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/index.html.erb (198.0ms)
+
+
+Started GET "/?artist=The+Rolling+Stones&album=Sticking+Fingers" for ::1 at 2017-01-03 21:13:13 -0500
+Processing by AlbumsController#index as HTML
+  Parameters: {"artist"=>"The Rolling Stones", "album"=>"Sticking Fingers"}
+Completed 500 Internal Server Error in 621ms (ActiveRecord: 0.0ms)
+
+NoMethodError (undefined method `type' for nil:NilClass):
+  app/controllers/albums_controller.rb:27:in `get_data'
+  app/controllers/albums_controller.rb:7:in `index'
+
+
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_source.erb (6.4ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.9ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.8ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (76.7ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/_markup.html.erb (0.5ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.4ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.5ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.5ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/console.js.erb within layouts/javascript (94.8ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/main.js.erb within layouts/javascript (1.1ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.5ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/index.html.erb (171.3ms)
+
+
+Started GET "/" for ::1 at 2017-01-03 21:13:39 -0500
+Processing by AlbumsController#index as HTML
+  Rendered albums/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 67ms (Views: 67.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/?artist=The+Rolling+Stones&album=Sticky+Fingers" for ::1 at 2017-01-03 21:13:48 -0500
+Processing by AlbumsController#index as HTML
+  Parameters: {"artist"=>"The Rolling Stones", "album"=>"Sticky Fingers"}
+Completed 500 Internal Server Error in 610679ms (ActiveRecord: 0.0ms)
+
+NoMethodError (undefined method `field_with' for nil:NilClass):
+  app/controllers/albums_controller.rb:44:in `get_data'
+  app/controllers/albums_controller.rb:7:in `index'
+
+
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_source.erb (4.6ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.7ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (2.1ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (55.8ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/_markup.html.erb (0.5ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.7ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.5ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/console.js.erb within layouts/javascript (46.5ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/main.js.erb within layouts/javascript (0.4ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.4ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/index.html.erb (98.8ms)
+
+
+Started GET "/?artist=The+Rolling+Stones&album=Sticky+Fingers" for ::1 at 2017-01-03 21:24:04 -0500
+Processing by AlbumsController#index as HTML
+  Parameters: {"artist"=>"The Rolling Stones", "album"=>"Sticky Fingers"}
+Completed 500 Internal Server Error in 7586ms (ActiveRecord: 0.0ms)
+
+NoMethodError (undefined method `field_with' for nil:NilClass):
+  app/controllers/albums_controller.rb:44:in `get_data'
+  app/controllers/albums_controller.rb:7:in `index'
+
+
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_source.erb (3.9ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.9ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.1ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (42.9ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/_markup.html.erb (0.5ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.5ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.4ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/console.js.erb within layouts/javascript (52.7ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/main.js.erb within layouts/javascript (0.3ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.5ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/index.html.erb (105.4ms)
+
+
+Started GET "/?artist=Future+Islands&album=Singles" for ::1 at 2017-01-03 21:25:42 -0500
+Processing by AlbumsController#index as HTML
+  Parameters: {"artist"=>"Future Islands", "album"=>"Singles"}
+Completed 500 Internal Server Error in 208626ms (ActiveRecord: 0.0ms)
+
+NoMethodError (undefined method `field_with' for nil:NilClass):
+  app/controllers/albums_controller.rb:44:in `get_data'
+  app/controllers/albums_controller.rb:7:in `index'
+
+
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_source.erb (3.1ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.5ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.9ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (40.8ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/_markup.html.erb (0.4ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.2ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/console.js.erb within layouts/javascript (37.1ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/main.js.erb within layouts/javascript (0.3ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.4ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/index.html.erb (88.0ms)
+
+
+Started GET "/?artist=Future+Islands&album=Singles" for ::1 at 2017-01-03 21:29:21 -0500
+Processing by AlbumsController#index as HTML
+  Parameters: {"artist"=>"Future Islands", "album"=>"Singles"}
+  Rendered albums/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 6201ms (Views: 85.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-01-03 21:30:35 -0500
+Processing by AlbumsController#index as HTML
+  Rendered albums/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 122ms (Views: 121.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/?artist=Spoon&album=Ga+Ga+Ga+Ga+Ga" for ::1 at 2017-01-03 21:30:55 -0500
+Processing by AlbumsController#index as HTML
+  Parameters: {"artist"=>"Spoon", "album"=>"Ga Ga Ga Ga Ga"}
+  Rendered albums/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 6300ms (Views: 105.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/?artist=The+Beatles&album=White+Album" for ::1 at 2017-01-03 21:31:53 -0500
+Processing by AlbumsController#index as HTML
+  Parameters: {"artist"=>"The Beatles", "album"=>"White Album"}
+  Rendered albums/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 5926ms (Views: 81.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/?artist=Musicmagic&album=Return+To+Forever" for ::1 at 2017-01-03 21:33:21 -0500
+Processing by AlbumsController#index as HTML
+  Parameters: {"artist"=>"Musicmagic", "album"=>"Return To Forever"}
+  Rendered albums/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 5999ms (Views: 74.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/?artist=Fleetwood+Mac&album=Rumours" for ::1 at 2017-01-03 21:34:01 -0500
+Processing by AlbumsController#index as HTML
+  Parameters: {"artist"=>"Fleetwood Mac", "album"=>"Rumours"}
+Completed 500 Internal Server Error in 5123ms (ActiveRecord: 0.0ms)
+
+NoMethodError (undefined method `value' for nil:NilClass):
+  app/controllers/albums_controller.rb:60:in `get_data'
+  app/controllers/albums_controller.rb:7:in `index'
+
+
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_source.erb (4.9ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.7ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.0ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (50.3ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/_markup.html.erb (0.3ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.2ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.4ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/console.js.erb within layouts/javascript (41.6ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/main.js.erb within layouts/javascript (0.2ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.3ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/index.html.erb (87.1ms)
+
+
+Started GET "/?artist=Fleetwood+Mac&album=Rumours" for ::1 at 2017-01-03 21:34:58 -0500
+Processing by AlbumsController#index as HTML
+  Parameters: {"artist"=>"Fleetwood Mac", "album"=>"Rumours"}
+Completed 500 Internal Server Error in 1563932ms (ActiveRecord: 0.0ms)
+
+NoMethodError (undefined method `value' for nil:NilClass):
+  app/controllers/albums_controller.rb:61:in `get_data'
+  app/controllers/albums_controller.rb:7:in `index'
+
+
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_source.erb (3.9ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (3.2ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.3ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (50.1ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/_markup.html.erb (0.4ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (1.2ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.4ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/console.js.erb within layouts/javascript (38.6ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/main.js.erb within layouts/javascript (0.4ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.4ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/index.html.erb (91.4ms)
+
+
+Started GET "/" for ::1 at 2017-01-03 22:32:45 -0500
+Processing by AlbumsController#index as HTML
+  Rendered albums/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 142ms (Views: 142.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/?artist=Future+Islands&album=Singles" for ::1 at 2017-01-03 22:32:52 -0500
+Processing by AlbumsController#index as HTML
+  Parameters: {"artist"=>"Future Islands", "album"=>"Singles"}
+
+
+Started GET "/" for ::1 at 2017-01-08 16:01:35 -0500
+
+PG::ConnectionBad (could not connect to server: Connection refused
+	Is the server running on host "localhost" (::1) and accepting
+	TCP/IP connections on port 5432?
+could not connect to server: Connection refused
+	Is the server running on host "localhost" (127.0.0.1) and accepting
+	TCP/IP connections on port 5432?
+):
+  activerecord (4.2.4) lib/active_record/connection_adapters/postgresql_adapter.rb:655:in `initialize'
+  activerecord (4.2.4) lib/active_record/connection_adapters/postgresql_adapter.rb:655:in `new'
+  activerecord (4.2.4) lib/active_record/connection_adapters/postgresql_adapter.rb:655:in `connect'
+  activerecord (4.2.4) lib/active_record/connection_adapters/postgresql_adapter.rb:242:in `initialize'
+  activerecord (4.2.4) lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+  activerecord (4.2.4) lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `postgresql_connection'
+  activerecord (4.2.4) lib/active_record/connection_adapters/abstract/connection_pool.rb:438:in `new_connection'
+  activerecord (4.2.4) lib/active_record/connection_adapters/abstract/connection_pool.rb:448:in `checkout_new_connection'
+  activerecord (4.2.4) lib/active_record/connection_adapters/abstract/connection_pool.rb:422:in `acquire_connection'
+  activerecord (4.2.4) lib/active_record/connection_adapters/abstract/connection_pool.rb:349:in `block in checkout'
+  /Users/tobiaskahn/.rubies/ruby-2.2.3/lib/ruby/2.2.0/monitor.rb:211:in `mon_synchronize'
+  activerecord (4.2.4) lib/active_record/connection_adapters/abstract/connection_pool.rb:348:in `checkout'
+  activerecord (4.2.4) lib/active_record/connection_adapters/abstract/connection_pool.rb:263:in `block in connection'
+  /Users/tobiaskahn/.rubies/ruby-2.2.3/lib/ruby/2.2.0/monitor.rb:211:in `mon_synchronize'
+  activerecord (4.2.4) lib/active_record/connection_adapters/abstract/connection_pool.rb:262:in `connection'
+  activerecord (4.2.4) lib/active_record/connection_adapters/abstract/connection_pool.rb:571:in `retrieve_connection'
+  activerecord (4.2.4) lib/active_record/connection_handling.rb:113:in `retrieve_connection'
+  activerecord (4.2.4) lib/active_record/connection_handling.rb:87:in `connection'
+  activerecord (4.2.4) lib/active_record/migration.rb:383:in `connection'
+  activerecord (4.2.4) lib/active_record/migration.rb:370:in `call'
+  actionpack (4.2.4) lib/action_dispatch/middleware/callbacks.rb:29:in `block in call'
+  activesupport (4.2.4) lib/active_support/callbacks.rb:88:in `__run_callbacks__'
+  activesupport (4.2.4) lib/active_support/callbacks.rb:778:in `_run_call_callbacks'
+  activesupport (4.2.4) lib/active_support/callbacks.rb:81:in `run_callbacks'
+  actionpack (4.2.4) lib/action_dispatch/middleware/callbacks.rb:27:in `call'
+  actionpack (4.2.4) lib/action_dispatch/middleware/reloader.rb:73:in `call'
+  actionpack (4.2.4) lib/action_dispatch/middleware/remote_ip.rb:78:in `call'
+  actionpack (4.2.4) lib/action_dispatch/middleware/debug_exceptions.rb:17:in `call'
+  web-console (2.2.1) lib/web_console/middleware.rb:39:in `call'
+  actionpack (4.2.4) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.4) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.4) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.4) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.4) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.4) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.4) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.4) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.4) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.4) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.4) lib/action_dispatch/middleware/static.rb:116:in `call'
+  rack (1.6.4) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.4) lib/rails/engine.rb:518:in `call'
+  railties (4.2.4) lib/rails/application.rb:165:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  rack (1.6.4) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.4) lib/rack/handler/webrick.rb:88:in `service'
+  /Users/tobiaskahn/.rubies/ruby-2.2.3/lib/ruby/2.2.0/webrick/httpserver.rb:138:in `service'
+  /Users/tobiaskahn/.rubies/ruby-2.2.3/lib/ruby/2.2.0/webrick/httpserver.rb:94:in `run'
+  /Users/tobiaskahn/.rubies/ruby-2.2.3/lib/ruby/2.2.0/webrick/server.rb:294:in `block in start_thread'
+
+
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_source.erb (3.4ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.6ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.2ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (55.3ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/_markup.html.erb (0.4ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.5ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.5ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/console.js.erb within layouts/javascript (48.4ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/main.js.erb within layouts/javascript (0.4ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.5ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/index.html.erb (109.2ms)
+
+
+Started GET "/" for ::1 at 2017-01-08 16:02:58 -0500
+
+PG::ConnectionBad (could not connect to server: Connection refused
+	Is the server running on host "localhost" (::1) and accepting
+	TCP/IP connections on port 5432?
+could not connect to server: Connection refused
+	Is the server running on host "localhost" (127.0.0.1) and accepting
+	TCP/IP connections on port 5432?
+):
+  activerecord (4.2.4) lib/active_record/connection_adapters/postgresql_adapter.rb:655:in `initialize'
+  activerecord (4.2.4) lib/active_record/connection_adapters/postgresql_adapter.rb:655:in `new'
+  activerecord (4.2.4) lib/active_record/connection_adapters/postgresql_adapter.rb:655:in `connect'
+  activerecord (4.2.4) lib/active_record/connection_adapters/postgresql_adapter.rb:242:in `initialize'
+  activerecord (4.2.4) lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+  activerecord (4.2.4) lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `postgresql_connection'
+  activerecord (4.2.4) lib/active_record/connection_adapters/abstract/connection_pool.rb:438:in `new_connection'
+  activerecord (4.2.4) lib/active_record/connection_adapters/abstract/connection_pool.rb:448:in `checkout_new_connection'
+  activerecord (4.2.4) lib/active_record/connection_adapters/abstract/connection_pool.rb:422:in `acquire_connection'
+  activerecord (4.2.4) lib/active_record/connection_adapters/abstract/connection_pool.rb:349:in `block in checkout'
+  /Users/tobiaskahn/.rubies/ruby-2.2.3/lib/ruby/2.2.0/monitor.rb:211:in `mon_synchronize'
+  activerecord (4.2.4) lib/active_record/connection_adapters/abstract/connection_pool.rb:348:in `checkout'
+  activerecord (4.2.4) lib/active_record/connection_adapters/abstract/connection_pool.rb:263:in `block in connection'
+  /Users/tobiaskahn/.rubies/ruby-2.2.3/lib/ruby/2.2.0/monitor.rb:211:in `mon_synchronize'
+  activerecord (4.2.4) lib/active_record/connection_adapters/abstract/connection_pool.rb:262:in `connection'
+  activerecord (4.2.4) lib/active_record/connection_adapters/abstract/connection_pool.rb:571:in `retrieve_connection'
+  activerecord (4.2.4) lib/active_record/connection_handling.rb:113:in `retrieve_connection'
+  activerecord (4.2.4) lib/active_record/connection_handling.rb:87:in `connection'
+  activerecord (4.2.4) lib/active_record/migration.rb:383:in `connection'
+  activerecord (4.2.4) lib/active_record/migration.rb:370:in `call'
+  actionpack (4.2.4) lib/action_dispatch/middleware/callbacks.rb:29:in `block in call'
+  activesupport (4.2.4) lib/active_support/callbacks.rb:88:in `__run_callbacks__'
+  activesupport (4.2.4) lib/active_support/callbacks.rb:778:in `_run_call_callbacks'
+  activesupport (4.2.4) lib/active_support/callbacks.rb:81:in `run_callbacks'
+  actionpack (4.2.4) lib/action_dispatch/middleware/callbacks.rb:27:in `call'
+  actionpack (4.2.4) lib/action_dispatch/middleware/reloader.rb:73:in `call'
+  actionpack (4.2.4) lib/action_dispatch/middleware/remote_ip.rb:78:in `call'
+  actionpack (4.2.4) lib/action_dispatch/middleware/debug_exceptions.rb:17:in `call'
+  web-console (2.2.1) lib/web_console/middleware.rb:39:in `call'
+  actionpack (4.2.4) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.4) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.4) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.4) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.4) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.4) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.4) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.4) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.4) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.4) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.4) lib/action_dispatch/middleware/static.rb:116:in `call'
+  rack (1.6.4) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.4) lib/rails/engine.rb:518:in `call'
+  railties (4.2.4) lib/rails/application.rb:165:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  rack (1.6.4) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.4) lib/rack/handler/webrick.rb:88:in `service'
+  /Users/tobiaskahn/.rubies/ruby-2.2.3/lib/ruby/2.2.0/webrick/httpserver.rb:138:in `service'
+  /Users/tobiaskahn/.rubies/ruby-2.2.3/lib/ruby/2.2.0/webrick/httpserver.rb:94:in `run'
+  /Users/tobiaskahn/.rubies/ruby-2.2.3/lib/ruby/2.2.0/webrick/server.rb:294:in `block in start_thread'
+
+
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_source.erb (2.7ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.5ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.7ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (45.3ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/_markup.html.erb (0.6ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.5ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.4ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/console.js.erb within layouts/javascript (47.3ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/main.js.erb within layouts/javascript (0.2ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.4ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/index.html.erb (103.7ms)
+
+
+Started GET "/" for ::1 at 2017-01-08 16:10:51 -0500
+  [1m[36mActiveRecord::SchemaMigration Load (4.0ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by AlbumsController#index as HTML
+  Rendered albums/index.html.erb within layouts/application (2.5ms)
+Completed 200 OK in 656ms (Views: 655.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery_ujs.self-d602bdfe68ffc63b9f9cc512872aa3cfff046228a0a36e90dd476e8ef54c1b09.js?body=1" for ::1 at 2017-01-08 16:10:52 -0500
+
+
+Started GET "/assets/foundation.core.self-9db1fd25093ee6a0c24fc7b93e9fbc59e1c644cc4d15b9ed07ecbac0f20d2626.js?body=1" for ::1 at 2017-01-08 16:10:52 -0500
+
+
+Started GET "/assets/foundation.accordion.self-9df5b77ee1499f87e2ceec1fa9aef606360cbb33cde0267550c770c8a2a1defa.js?body=1" for ::1 at 2017-01-08 16:10:52 -0500
+
+
+Started GET "/assets/jquery.self-c64a74367bda6ef8b860f19e74df08927ca99d2be2ac934e9e92d5fd361e0da4.js?body=1" for ::1 at 2017-01-08 16:10:52 -0500
+
+
+Started GET "/assets/foundation.accordionMenu.self-a3ef925cbb8b5d088243405584d3b27e7ed5b9a0dc008e7e77e6b1080510d4ba.js?body=1" for ::1 at 2017-01-08 16:10:52 -0500
+
+
+Started GET "/assets/foundation.abide.self-51a84bc6ba490a942393bca712c6e7cd9916fc4dc64a7693a8e068cd96085822.js?body=1" for ::1 at 2017-01-08 16:10:52 -0500
+
+
+Started GET "/assets/foundation_and_overrides.self-3d4fab0ef7a5ff4b10fcf9f9348a2b2a3cc5d4156622f5d0c93df1a7b3347669.css?body=1" for ::1 at 2017-01-08 16:10:52 -0500
+
+
+Started GET "/assets/_settings.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2017-01-08 16:10:52 -0500
+
+
+Started GET "/assets/application.self-b08fa7117c885cd50aa531cd3d2f190a119b4ba9b19ca2b32df41d8e73616534.css?body=1" for ::1 at 2017-01-08 16:10:52 -0500
+
+
+Started GET "/assets/foundation.dropdown.self-90806ac07a897f7e37fbdaf2583a71abcb2ed8424be8acd986c9c73116452cd2.js?body=1" for ::1 at 2017-01-08 16:10:52 -0500
+
+
+Started GET "/assets/foundation.dropdownMenu.self-96b39073b4be2185836ae4b20bf54c0473d7a7e3317799346891d212077af60f.js?body=1" for ::1 at 2017-01-08 16:10:52 -0500
+
+
+Started GET "/assets/foundation.drilldown.self-a9e0067ba5d8fd8d75672ab19982ed5c329d74dd75cb30f00e856e0e0fabe2ee.js?body=1" for ::1 at 2017-01-08 16:10:52 -0500
+
+
+Started GET "/assets/foundation.equalizer.self-b0bce90e5c28fc371ca163f9a09af8ea7f7a314420da9dc42b0db6e2ff8b090a.js?body=1" for ::1 at 2017-01-08 16:10:52 -0500
+
+
+Started GET "/assets/foundation.interchange.self-f8cb0c8683255d5f7725537dbefa4315ae27e23edf50952c094f78c60f5d7c13.js?body=1" for ::1 at 2017-01-08 16:10:52 -0500
+
+
+Started GET "/assets/foundation.magellan.self-92f91ef33806348a194e02af23e0aae555a6b5b8299aeac64925c4102c8e2c8a.js?body=1" for ::1 at 2017-01-08 16:10:52 -0500
+
+
+Started GET "/assets/foundation.offcanvas.self-b4b82021c3f2fffc3806622f157c39f2fba47b6ba3f465314e431b5fad3cdd19.js?body=1" for ::1 at 2017-01-08 16:10:52 -0500
+
+
+Started GET "/assets/foundation.orbit.self-ee8eaad4d64ae4fbb802c18eb872041b2c495ae8d5dfcecaad94685fd8eaed96.js?body=1" for ::1 at 2017-01-08 16:10:52 -0500
+
+
+Started GET "/assets/foundation.responsiveToggle.self-43c40897f3d624778a467deae3abff377aa4acd0f9543e007072e653149fec21.js?body=1" for ::1 at 2017-01-08 16:10:52 -0500
+
+
+Started GET "/assets/foundation.responsiveMenu.self-51a47c4ccfbb000f4191e3e78f12786b2286291c38fec15c8acf02df5cbf0fbc.js?body=1" for ::1 at 2017-01-08 16:10:52 -0500
+
+
+Started GET "/assets/foundation.tabs.self-9b927908963944f3d531d47080e724fb3bcec8abb988d1496a3d0aaa3ffc03a7.js?body=1" for ::1 at 2017-01-08 16:10:52 -0500
+
+
+Started GET "/assets/foundation.slider.self-ecb2b1fe3b0cbfd8ed61991b73c4b2cf395342326205391b36a8f44bd8cf5a1c.js?body=1" for ::1 at 2017-01-08 16:10:52 -0500
+
+
+Started GET "/assets/foundation.tooltip.self-7fc36e11e6027270359e3a6936984e4e9a02fbf94e0fcf23c67624f936fb30c8.js?body=1" for ::1 at 2017-01-08 16:10:52 -0500
+
+
+Started GET "/assets/foundation.sticky.self-5ea10bd37a762229edc48713b5c1e31bee363eb4d186d64e1404808dfe145374.js?body=1" for ::1 at 2017-01-08 16:10:52 -0500
+
+
+Started GET "/assets/foundation.toggler.self-f3dadc2f36d0f19fa8312317cda8c4a8a76a02d62832a6e00caae56d0c55ee28.js?body=1" for ::1 at 2017-01-08 16:10:52 -0500
+
+
+Started GET "/assets/foundation.reveal.self-0e230493fd98119c97ce28fbe7c408408f6b7dd4359470e87dd718c372b56199.js?body=1" for ::1 at 2017-01-08 16:10:52 -0500
+
+
+Started GET "/assets/foundation.util.box.self-69c9095c26be30b9b796ec4cc22eb2a694e5c38f5177bcc7b0f7e332c41758b3.js?body=1" for ::1 at 2017-01-08 16:10:52 -0500
+
+
+Started GET "/assets/foundation.util.keyboard.self-2f631ccc194566cde321c90ff1cf9533bcf5838943e6409c73d9c2afd8dfcfc8.js?body=1" for ::1 at 2017-01-08 16:10:52 -0500
+
+
+Started GET "/assets/foundation.util.mediaQuery.self-5db511bec350118db796cd1d02a28f1273b220b149d4022dbd639bba01a1fb2b.js?body=1" for ::1 at 2017-01-08 16:10:52 -0500
+
+
+Started GET "/assets/foundation.util.motion.self-96f5145345f69a7fc9dfc03a47c96917fc09c88cd79cf67475a89ea965a3e0ec.js?body=1" for ::1 at 2017-01-08 16:10:52 -0500
+
+
+Started GET "/assets/foundation.util.nest.self-8a2827a3484912cdf52070c3245611d0f36e9c4aa790f2558f2271f8adb94e38.js?body=1" for ::1 at 2017-01-08 16:10:52 -0500
+
+
+Started GET "/assets/foundation.util.timerAndImageLoader.self-ba42986e203ad89e201ed29d1419b921ef4e9852cc5f2a801347d370a5778c56.js?body=1" for ::1 at 2017-01-08 16:10:52 -0500
+
+
+Started GET "/assets/foundation.util.touch.self-8412fbfe24d1053f3dc12c80ab0ff3dc1524d69de0e154b158c5a6ff0d16d78e.js?body=1" for ::1 at 2017-01-08 16:10:52 -0500
+
+
+Started GET "/assets/foundation.util.triggers.self-5d93ae068164fc4cc4c3e9a8c8cb98bce5922d63594acf8f7225f49a11780535.js?body=1" for ::1 at 2017-01-08 16:10:52 -0500
+
+
+Started GET "/assets/foundation.self-9e2a078724c35cb29f9c1d6c2894d45b03cf53499867de8494fe8e6a0f52d1bf.js?body=1" for ::1 at 2017-01-08 16:10:52 -0500
+
+
+Started GET "/assets/application.self-1509cb3433bf7f60a75710bd4d8561d25423676b3c4d4a21914940bf07b8869a.js?body=1" for ::1 at 2017-01-08 16:10:52 -0500
+
+
+Started GET "/" for ::1 at 2017-01-08 16:10:53 -0500
+Processing by AlbumsController#index as HTML
+  Rendered albums/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 123ms (Views: 122.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-01-08 16:27:25 -0500
+Processing by AlbumsController#index as HTML
+Completed 500 Internal Server Error in 650ms (ActiveRecord: 0.0ms)
+
+OAuth::Unauthorized (401 UNAUTHORIZED):
+  app/controllers/albums_controller.rb:17:in `authenticate'
+  app/controllers/albums_controller.rb:3:in `index'
+
+
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_source.erb (7.3ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.2ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.3ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (56.7ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/_markup.html.erb (0.5ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.5ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/console.js.erb within layouts/javascript (43.9ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/main.js.erb within layouts/javascript (0.5ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.6ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/index.html.erb (98.3ms)
+
+
+Started GET "/" for ::1 at 2017-01-08 16:27:53 -0500
+Processing by AlbumsController#index as HTML
+Completed 500 Internal Server Error in 83661ms (ActiveRecord: 0.0ms)
+
+OAuth::Unauthorized (401 UNAUTHORIZED):
+  app/controllers/albums_controller.rb:18:in `authenticate'
+  app/controllers/albums_controller.rb:3:in `index'
+
+
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_source.erb (7.2ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (3.5ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (3.0ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (75.1ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/_markup.html.erb (0.4ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.7ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.5ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.6ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/console.js.erb within layouts/javascript (55.9ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/main.js.erb within layouts/javascript (0.4ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.6ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/index.html.erb (123.0ms)
+
+
+Started GET "/" for ::1 at 2017-01-08 16:29:21 -0500
+Processing by AlbumsController#index as HTML
+Redirected to http://www.discogs.com/oauth/authorize?oauth_callback=http%3A%2F%2F127.0.0.1%3A3000%2Fcallback&oauth_token=KOvADykKcOuydNsqWXwtXfPuEyVONlaXNWtgmWSg
+Completed 500 Internal Server Error in 37408ms (ActiveRecord: 0.0ms)
+
+OAuth::Unauthorized (400 BAD REQUEST):
+  app/controllers/albums_controller.rb:30:in `callback'
+  app/controllers/albums_controller.rb:4:in `index'
+
+
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_source.erb (4.6ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.9ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.0ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (51.3ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/_markup.html.erb (0.3ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/console.js.erb within layouts/javascript (45.2ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/main.js.erb within layouts/javascript (0.6ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.8ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/index.html.erb (104.7ms)
+
+
+Started GET "/" for ::1 at 2017-01-08 16:30:08 -0500
+Processing by AlbumsController#index as HTML
+Redirected to http://www.discogs.com/oauth/authorize?oauth_callback=http%3A%2F%2F127.0.0.1%3A3000%2Fcallback&oauth_token=HADNJqfZvxBRrkFJyYpJnpwiLnKSNRyNIdnhqvuG
+Completed 500 Internal Server Error in 7629ms (ActiveRecord: 0.0ms)
+
+OAuth::Unauthorized (400 BAD REQUEST):
+  app/controllers/albums_controller.rb:30:in `callback'
+  app/controllers/albums_controller.rb:4:in `index'
+
+
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_source.erb (4.2ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.2ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.8ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (44.6ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/_markup.html.erb (0.3ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/console.js.erb within layouts/javascript (41.1ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/main.js.erb within layouts/javascript (0.5ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.8ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/index.html.erb (91.2ms)
+
+
+Started GET "/" for ::1 at 2017-01-08 16:32:26 -0500
+Processing by AlbumsController#index as HTML
+Redirected to http://www.discogs.com/oauth/authorize?oauth_callback=http%3A%2F%2F127.0.0.1%3A3000%2Fcallback&oauth_token=SLyxfdGAhXfspmvwZsGxbVovzBacgpHpKKlWucfd
+Completed 302 Found in 4477ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/callback?oauth_token=SLyxfdGAhXfspmvwZsGxbVovzBacgpHpKKlWucfd&oauth_verifier=pzKKSWNmIC" for 127.0.0.1 at 2017-01-08 16:32:39 -0500
+
+ActionController::RoutingError (No route matches [GET] "/callback"):
+  actionpack (4.2.4) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  web-console (2.2.1) lib/web_console/middleware.rb:39:in `call'
+  actionpack (4.2.4) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.4) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.4) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.4) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.4) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.4) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.4) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.4) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.4) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.4) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.4) lib/action_dispatch/middleware/static.rb:116:in `call'
+  rack (1.6.4) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.4) lib/rails/engine.rb:518:in `call'
+  railties (4.2.4) lib/rails/application.rb:165:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  rack (1.6.4) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.4) lib/rack/handler/webrick.rb:88:in `service'
+  /Users/tobiaskahn/.rubies/ruby-2.2.3/lib/ruby/2.2.0/webrick/httpserver.rb:138:in `service'
+  /Users/tobiaskahn/.rubies/ruby-2.2.3/lib/ruby/2.2.0/webrick/httpserver.rb:94:in `run'
+  /Users/tobiaskahn/.rubies/ruby-2.2.3/lib/ruby/2.2.0/webrick/server.rb:294:in `block in start_thread'
+
+
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.6ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.6ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/routes/_table.html.erb (12.6ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.7ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (78.3ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/_markup.html.erb (0.6ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.5ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/console.js.erb within layouts/javascript (42.7ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/main.js.erb within layouts/javascript (0.2ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.5ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/index.html.erb (85.8ms)
+
+
+Started GET "/" for ::1 at 2017-01-08 16:41:06 -0500
+Processing by AlbumsController#index as HTML
+Redirected to http://www.discogs.com/oauth/authorize?oauth_callback=http%3A%2F%2F127.0.0.1%3A3000%2Fcallback&oauth_token=NjOugEvObKwmBXvJbfPIMNhapkocCvCAstGkrAit
+Completed 302 Found in 7702ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-01-08 16:41:14 -0500
+Processing by AlbumsController#index as HTML
+Redirected to http://www.discogs.com/oauth/authorize?oauth_callback=http%3A%2F%2F127.0.0.1%3A3000%2Fcallback&oauth_token=jiwBLjHgzzOyNVQUyCKscvLNoqYKQAUdENiDgWMZ
+Completed 302 Found in 15427ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/callback?oauth_token=SLyxfdGAhXfspmvwZsGxbVovzBacgpHpKKlWucfd&oauth_verifier=pzKKSWNmIC" for 127.0.0.1 at 2017-01-08 16:41:29 -0500
+Processing by AlbumsController#callback as HTML
+  Parameters: {"oauth_token"=>"SLyxfdGAhXfspmvwZsGxbVovzBacgpHpKKlWucfd", "oauth_verifier"=>"pzKKSWNmIC"}
+Completed 500 Internal Server Error in 1ms (ActiveRecord: 0.0ms)
+
+NoMethodError (undefined method `authenticate' for nil:NilClass):
+  app/controllers/albums_controller.rb:31:in `callback'
+
+
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_source.erb (7.0ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.2ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.4ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (53.8ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/_markup.html.erb (0.4ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.4ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.4ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.4ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/console.js.erb within layouts/javascript (49.0ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/main.js.erb within layouts/javascript (0.3ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.4ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/index.html.erb (100.1ms)
+
+
+Started GET "/" for ::1 at 2017-01-08 16:41:40 -0500
+Processing by AlbumsController#index as HTML
+Redirected to http://www.discogs.com/oauth/authorize?oauth_callback=http%3A%2F%2F127.0.0.1%3A3000%2Fcallback&oauth_token=TyGXwgzVSwHDkWlgBAlbANuhdaVxJqdsCLTzkvoV
+Completed 302 Found in 13805ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-01-08 16:41:54 -0500
+Processing by AlbumsController#index as HTML
+Redirected to http://www.discogs.com/oauth/authorize?oauth_callback=http%3A%2F%2F127.0.0.1%3A3000%2Fcallback&oauth_token=SFeciHpKlasGftqYkjDfCnzyXSiekatwyWcMdwRt
+Completed 302 Found in 510ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/callback?oauth_token=SFeciHpKlasGftqYkjDfCnzyXSiekatwyWcMdwRt&oauth_verifier=qsojxKCohG" for 127.0.0.1 at 2017-01-08 16:42:04 -0500
+Processing by AlbumsController#callback as HTML
+  Parameters: {"oauth_token"=>"SFeciHpKlasGftqYkjDfCnzyXSiekatwyWcMdwRt", "oauth_verifier"=>"qsojxKCohG"}
+Completed 500 Internal Server Error in 1ms (ActiveRecord: 0.0ms)
+
+NoMethodError (undefined method `authenticate' for nil:NilClass):
+  app/controllers/albums_controller.rb:31:in `callback'
+
+
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_source.erb (6.8ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.1ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.0ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (55.9ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/_markup.html.erb (0.4ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.2ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.4ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.6ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/console.js.erb within layouts/javascript (40.2ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/main.js.erb within layouts/javascript (0.2ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.2ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/index.html.erb (80.7ms)
+
+
+Started GET "/" for ::1 at 2017-01-08 16:42:55 -0500
+Processing by AlbumsController#index as HTML
+Redirected to http://www.discogs.com/oauth/authorize?oauth_callback=http%3A%2F%2F127.0.0.1%3A3000%2Fcallback&oauth_token=IvpUlrvqUrGrKifWBmEiHbxMamoyeQYbMFxKsHhs
+Completed 302 Found in 530ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-01-08 16:42:55 -0500
+Processing by AlbumsController#index as HTML
+Redirected to http://www.discogs.com/oauth/authorize?oauth_callback=http%3A%2F%2F127.0.0.1%3A3000%2Fcallback&oauth_token=TEqpApSpQkSBgItGZvvDHtcGvVSHMyRUoyTqhCrW
+Completed 302 Found in 504ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/callback?oauth_token=TEqpApSpQkSBgItGZvvDHtcGvVSHMyRUoyTqhCrW&oauth_verifier=NjoplooVBK" for 127.0.0.1 at 2017-01-08 16:42:58 -0500
+Processing by AlbumsController#callback as HTML
+  Parameters: {"oauth_token"=>"TEqpApSpQkSBgItGZvvDHtcGvVSHMyRUoyTqhCrW", "oauth_verifier"=>"NjoplooVBK"}
+Completed 500 Internal Server Error in 52357ms (ActiveRecord: 0.0ms)
+
+NoMethodError (undefined method `authenticate' for nil:NilClass):
+  app/controllers/albums_controller.rb:31:in `callback'
+
+
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_source.erb (6.4ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.9ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.2ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (66.3ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/_markup.html.erb (0.5ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.5ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.4ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.5ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/console.js.erb within layouts/javascript (53.5ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/main.js.erb within layouts/javascript (0.5ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.6ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/index.html.erb (123.1ms)
+
+
+Started GET "/" for ::1 at 2017-01-08 16:43:58 -0500
+Processing by AlbumsController#index as HTML
+Redirected to http://www.discogs.com/oauth/authorize?oauth_callback=http%3A%2F%2F127.0.0.1%3A3000%2Fcallback&oauth_token=RCGVEVlcjYizrYXBYzjDzuprVFGLLoaCYglwXxwN
+Completed 302 Found in 498ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-01-08 16:43:59 -0500
+Processing by AlbumsController#index as HTML
+Redirected to http://www.discogs.com/oauth/authorize?oauth_callback=http%3A%2F%2F127.0.0.1%3A3000%2Fcallback&oauth_token=hGJYlUbOlPKPTIenEnqprYQbuFUWRUqycDfzRCDH
+Completed 302 Found in 537ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/callback?oauth_token=hGJYlUbOlPKPTIenEnqprYQbuFUWRUqycDfzRCDH&oauth_verifier=mTALFUnFFn" for 127.0.0.1 at 2017-01-08 16:44:02 -0500
+Processing by AlbumsController#callback as HTML
+  Parameters: {"oauth_token"=>"hGJYlUbOlPKPTIenEnqprYQbuFUWRUqycDfzRCDH", "oauth_verifier"=>"mTALFUnFFn"}
+Completed 500 Internal Server Error in 48983ms (ActiveRecord: 0.0ms)
+
+OAuth::Error (Invalid Request Token):
+  app/controllers/albums_controller.rb:31:in `callback'
+
+
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_source.erb (4.8ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (3.3ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.0ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (52.8ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/_markup.html.erb (0.5ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.4ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.7ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/console.js.erb within layouts/javascript (46.0ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/main.js.erb within layouts/javascript (0.3ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.4ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/index.html.erb (99.2ms)
+
+
+Started GET "/" for ::1 at 2017-01-08 16:44:56 -0500
+Processing by AlbumsController#index as HTML
+Redirected to http://www.discogs.com/oauth/authorize?oauth_callback=http%3A%2F%2F127.0.0.1%3A3000%2Fcallback&oauth_token=uiteZDPCjeCFtZfkFYGqNScDsCnQmBDHCcJWjsIL
+Completed 302 Found in 15551ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-01-08 16:45:12 -0500
+Processing by AlbumsController#index as HTML
+Redirected to http://www.discogs.com/oauth/authorize?oauth_callback=http%3A%2F%2F127.0.0.1%3A3000%2Fcallback&oauth_token=sXpHSNnkRWkMjMKKHuXyuCEEFzHhApzWTiQCMpTW
+Completed 302 Found in 12478ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/callback?oauth_token=sXpHSNnkRWkMjMKKHuXyuCEEFzHhApzWTiQCMpTW&oauth_verifier=FjEYSRjsNv" for 127.0.0.1 at 2017-01-08 16:47:10 -0500
+Processing by AlbumsController#callback as HTML
+  Parameters: {"oauth_token"=>"sXpHSNnkRWkMjMKKHuXyuCEEFzHhApzWTiQCMpTW", "oauth_verifier"=>"FjEYSRjsNv"}
+Completed 500 Internal Server Error in 7725ms (ActiveRecord: 0.0ms)
+
+OAuth::Error (Invalid Request Token):
+  app/controllers/albums_controller.rb:32:in `callback'
+
+
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_source.erb (4.9ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.8ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.8ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (42.0ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/_markup.html.erb (0.3ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.7ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.6ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/console.js.erb within layouts/javascript (36.0ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/main.js.erb within layouts/javascript (0.3ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.3ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/index.html.erb (77.5ms)
+
+
+Started GET "/" for ::1 at 2017-01-08 16:47:37 -0500
+Processing by AlbumsController#index as HTML
+Redirected to http://www.discogs.com/oauth/authorize?oauth_callback=http%3A%2F%2F127.0.0.1%3A3000%2Fcallback&oauth_token=VvjJhiqnxkBehziGscMckOXTvuZLTcWcMdGRTnae
+Completed 302 Found in 528ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-01-08 16:47:37 -0500
+Processing by AlbumsController#index as HTML
+Redirected to http://www.discogs.com/oauth/authorize?oauth_callback=http%3A%2F%2F127.0.0.1%3A3000%2Fcallback&oauth_token=AgjxJyNuabgcGhLkjfpunpZiJKOhRZGuLmjReySa
+Completed 302 Found in 505ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/callback?oauth_token=AgjxJyNuabgcGhLkjfpunpZiJKOhRZGuLmjReySa&oauth_verifier=fYuVRztEVE" for 127.0.0.1 at 2017-01-08 16:47:42 -0500
+Processing by AlbumsController#callback as HTML
+  Parameters: {"oauth_token"=>"AgjxJyNuabgcGhLkjfpunpZiJKOhRZGuLmjReySa", "oauth_verifier"=>"fYuVRztEVE"}
+Completed 500 Internal Server Error in 961927ms (ActiveRecord: 0.0ms)
+
+OAuth::Error (Invalid Request Token):
+  app/controllers/albums_controller.rb:31:in `callback'
+
+
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_source.erb (4.3ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.4ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.9ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (53.6ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/_markup.html.erb (0.7ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.4ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.5ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/console.js.erb within layouts/javascript (48.5ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/main.js.erb within layouts/javascript (0.3ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.3ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/index.html.erb (105.4ms)
+
+
+Started GET "/" for ::1 at 2017-01-08 17:03:44 -0500
+Processing by AlbumsController#index as HTML
+Redirected to http://www.discogs.com/oauth/authorize?oauth_callback=http%3A%2F%2F127.0.0.1%3A3000%2Fcallback&oauth_token=dUBwzGewWwhALrmTQdxdGzKKthnQmJFLWzHfjAYH
+Completed 302 Found in 484ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-01-08 17:03:45 -0500
+Processing by AlbumsController#index as HTML
+Redirected to http://www.discogs.com/oauth/authorize?oauth_callback=http%3A%2F%2F127.0.0.1%3A3000%2Fcallback&oauth_token=psbhttJLwHTLKKQqtbBjNXGCIyLhXnYPVjouBvJu
+Completed 302 Found in 494ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/callback?oauth_token=psbhttJLwHTLKKQqtbBjNXGCIyLhXnYPVjouBvJu&oauth_verifier=yfQKCPDtNj" for 127.0.0.1 at 2017-01-08 17:03:50 -0500
+Processing by AlbumsController#callback as HTML
+  Parameters: {"oauth_token"=>"psbhttJLwHTLKKQqtbBjNXGCIyLhXnYPVjouBvJu", "oauth_verifier"=>"yfQKCPDtNj"}
+Completed 500 Internal Server Error in 1ms (ActiveRecord: 0.0ms)
+
+OAuth::Error (Invalid Request Token):
+  app/controllers/albums_controller.rb:32:in `callback'
+
+
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_source.erb (3.7ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.9ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.8ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (46.0ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/_markup.html.erb (0.3ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.4ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/console.js.erb within layouts/javascript (39.7ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/main.js.erb within layouts/javascript (0.4ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.6ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/index.html.erb (84.2ms)
+
+
+Started GET "/" for ::1 at 2017-01-08 17:04:26 -0500
+Processing by AlbumsController#index as HTML
+Redirected to http://www.discogs.com/oauth/authorize?oauth_callback=http%3A%2F%2F127.0.0.1%3A3000%2Fcallback&oauth_token=DOmeddGMTDFlCedVPOiODDapvDuEZnXRWuEMIMtE
+Completed 302 Found in 504ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-01-08 17:04:26 -0500
+Processing by AlbumsController#index as HTML
+Redirected to http://www.discogs.com/oauth/authorize?oauth_callback=http%3A%2F%2F127.0.0.1%3A3000%2Fcallback&oauth_token=hhuxbcCBiAHhYoFDgpgrFEnpgzFwPayrWMTynICU
+Completed 302 Found in 627ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/callback?oauth_token=hhuxbcCBiAHhYoFDgpgrFEnpgzFwPayrWMTynICU&oauth_verifier=KcArEsSEHo" for 127.0.0.1 at 2017-01-08 17:04:29 -0500
+Processing by AlbumsController#callback as HTML
+  Parameters: {"oauth_token"=>"hhuxbcCBiAHhYoFDgpgrFEnpgzFwPayrWMTynICU", "oauth_verifier"=>"KcArEsSEHo"}
+Completed 500 Internal Server Error in 17788ms (ActiveRecord: 0.0ms)
+
+OAuth::Error (Invalid Request Token):
+  app/controllers/albums_controller.rb:34:in `callback'
+
+
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_source.erb (3.9ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.4ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.5ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (48.8ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/_markup.html.erb (1.1ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.8ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/console.js.erb within layouts/javascript (41.8ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/main.js.erb within layouts/javascript (0.3ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.7ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/index.html.erb (115.9ms)
+
+
+Started GET "/" for ::1 at 2017-01-08 17:04:51 -0500
+Processing by AlbumsController#index as HTML
+Redirected to http://www.discogs.com/oauth/authorize?oauth_callback=http%3A%2F%2F127.0.0.1%3A3000%2Fcallback&oauth_token=ezzHCvwUXmbLNBppWGlJXiPYuADsxybMuibERfHq
+Completed 302 Found in 523ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-01-08 17:04:52 -0500
+Processing by AlbumsController#index as HTML
+Redirected to http://www.discogs.com/oauth/authorize?oauth_callback=http%3A%2F%2F127.0.0.1%3A3000%2Fcallback&oauth_token=xFidXbdFNygmNcbOJjYSLCoImZsLvDTPZqdftonX
+Completed 302 Found in 534ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/callback?oauth_token=xFidXbdFNygmNcbOJjYSLCoImZsLvDTPZqdftonX&oauth_verifier=oMMtDiAwPQ" for 127.0.0.1 at 2017-01-08 17:04:55 -0500
+Processing by AlbumsController#callback as HTML
+  Parameters: {"oauth_token"=>"xFidXbdFNygmNcbOJjYSLCoImZsLvDTPZqdftonX", "oauth_verifier"=>"oMMtDiAwPQ"}
+Completed 500 Internal Server Error in 48312ms (ActiveRecord: 0.0ms)
+
+OAuth::Error (Invalid Request Token):
+  app/controllers/albums_controller.rb:33:in `callback'
+
+
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_source.erb (4.5ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.5ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.9ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (49.0ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/_markup.html.erb (0.4ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.4ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.4ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/console.js.erb within layouts/javascript (40.2ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/main.js.erb within layouts/javascript (0.3ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.5ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/index.html.erb (98.0ms)
+
+
+Started GET "/" for ::1 at 2017-01-08 17:05:46 -0500
+Processing by AlbumsController#index as HTML
+Redirected to http://www.discogs.com/oauth/authorize?oauth_callback=http%3A%2F%2F127.0.0.1%3A3000%2Fcallback&oauth_token=CJIybfQakewcGhJTqomgMAzQNPJsjyQpwWVHLTCa
+Completed 302 Found in 6954ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-01-08 17:05:53 -0500
+Processing by AlbumsController#index as HTML
+Redirected to http://www.discogs.com/oauth/authorize?oauth_callback=http%3A%2F%2F127.0.0.1%3A3000%2Fcallback&oauth_token=ZKfEtlrulMfOEXIcyAVhiQQkVJeNNPBwEezMUsrq
+Completed 302 Found in 2058ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/callback?oauth_token=ZKfEtlrulMfOEXIcyAVhiQQkVJeNNPBwEezMUsrq&oauth_verifier=NJDHQKuNnw" for 127.0.0.1 at 2017-01-08 17:05:58 -0500
+Processing by AlbumsController#callback as HTML
+  Parameters: {"oauth_token"=>"ZKfEtlrulMfOEXIcyAVhiQQkVJeNNPBwEezMUsrq", "oauth_verifier"=>"NJDHQKuNnw"}
+Completed 500 Internal Server Error in 9275ms (ActiveRecord: 0.0ms)
+
+OAuth::Error (Invalid Request Token):
+  app/controllers/albums_controller.rb:33:in `callback'
+
+
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_source.erb (3.8ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.8ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.0ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (45.7ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/_markup.html.erb (0.3ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.5ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/console.js.erb within layouts/javascript (34.2ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/main.js.erb within layouts/javascript (0.3ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.4ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/index.html.erb (80.9ms)
+
+
+Started GET "/" for ::1 at 2017-01-08 17:06:12 -0500
+Processing by AlbumsController#index as HTML
+Redirected to http://www.discogs.com/oauth/authorize?oauth_callback=http%3A%2F%2F127.0.0.1%3A3000%2Fcallback&oauth_token=ChjfIJbZrTgeXTfVRiWmPjbfVASOKUrXtQJcFacV
+Completed 302 Found in 15109ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-01-08 17:06:27 -0500
+Processing by AlbumsController#index as HTML
+Redirected to http://www.discogs.com/oauth/authorize?oauth_callback=http%3A%2F%2F127.0.0.1%3A3000%2Fcallback&oauth_token=mTNBSbvKWHZuhueFFjwgMQCPcRkavclcjiIpYZqs
+Completed 302 Found in 9226ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/callback?oauth_token=mTNBSbvKWHZuhueFFjwgMQCPcRkavclcjiIpYZqs&oauth_verifier=MaEbdkFqoY" for 127.0.0.1 at 2017-01-08 17:06:41 -0500
+Processing by AlbumsController#callback as HTML
+  Parameters: {"oauth_token"=>"mTNBSbvKWHZuhueFFjwgMQCPcRkavclcjiIpYZqs", "oauth_verifier"=>"MaEbdkFqoY"}
+Completed 500 Internal Server Error in 21312ms (ActiveRecord: 0.0ms)
+
+OAuth::Error (Invalid Request Token):
+  app/controllers/albums_controller.rb:33:in `callback'
+
+
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_source.erb (3.5ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.8ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.8ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (40.9ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/_markup.html.erb (0.3ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.7ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.4ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/console.js.erb within layouts/javascript (38.0ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/main.js.erb within layouts/javascript (0.2ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.4ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/index.html.erb (80.3ms)
+
+
+Started GET "/" for ::1 at 2017-01-08 17:07:06 -0500
+Processing by AlbumsController#index as HTML
+Redirected to http://www.discogs.com/oauth/authorize?oauth_callback=http%3A%2F%2F127.0.0.1%3A3000%2Fcallback&oauth_token=kEtKyoEuTVKEwkOguBJwfDwFAjWvDsZQVUSLFGfs
+Completed 302 Found in 132799ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-01-08 17:09:18 -0500
+Processing by AlbumsController#index as HTML
+Redirected to http://www.discogs.com/oauth/authorize?oauth_callback=http%3A%2F%2F127.0.0.1%3A3000%2Fcallback&oauth_token=dMHsqxYqJoNrcZkoOqqqPPFWxhYegzugQxaUiUlb
+Completed 302 Found in 5002ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-01-08 17:09:23 -0500
+Processing by AlbumsController#index as HTML
+Redirected to http://www.discogs.com/oauth/authorize?oauth_callback=http%3A%2F%2F127.0.0.1%3A3000%2Fcallback&oauth_token=frScFUAhowtcGCgvDGcwkEuhhtIpHQsEsHySRGfQ
+Completed 302 Found in 10646ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-01-08 17:09:34 -0500
+Processing by AlbumsController#index as HTML
+Redirected to http://www.discogs.com/oauth/authorize?oauth_callback=http%3A%2F%2F127.0.0.1%3A3000%2Fcallback&oauth_token=XHafXyJNPuZIPkbCeTGyNjvXsnLziVcsvyOsNqSo
+Completed 302 Found in 573ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/callback?oauth_token=XHafXyJNPuZIPkbCeTGyNjvXsnLziVcsvyOsNqSo&oauth_verifier=jQeRZmdnJl" for 127.0.0.1 at 2017-01-08 17:09:41 -0500
+Processing by AlbumsController#callback as HTML
+  Parameters: {"oauth_token"=>"XHafXyJNPuZIPkbCeTGyNjvXsnLziVcsvyOsNqSo", "oauth_verifier"=>"jQeRZmdnJl"}
+Completed 500 Internal Server Error in 1ms (ActiveRecord: 0.0ms)
+
+OAuth::Error (Invalid Request Token):
+  app/controllers/albums_controller.rb:30:in `callback'
+
+
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_source.erb (7.3ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.5ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.2ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (52.1ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/_markup.html.erb (0.4ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.6ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.4ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.4ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/console.js.erb within layouts/javascript (39.6ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/main.js.erb within layouts/javascript (0.3ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.3ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/index.html.erb (87.1ms)
+
+
+Started GET "/" for ::1 at 2017-01-08 17:10:04 -0500
+Processing by AlbumsController#index as HTML
+Redirected to http://www.discogs.com/oauth/authorize?oauth_callback=http%3A%2F%2F127.0.0.1%3A3000%2Fcallback&oauth_token=uScbgRCmMxZTRHFizpLwhnbNFeFMVgMicmzKUVoE
+Completed 302 Found in 501ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-01-08 17:10:05 -0500
+Processing by AlbumsController#index as HTML
+Redirected to http://www.discogs.com/oauth/authorize?oauth_callback=http%3A%2F%2F127.0.0.1%3A3000%2Fcallback&oauth_token=qoOciTUQZUKTDpsQkbJZCefNruKPmyvYsBgpNbie
+Completed 302 Found in 573ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/callback?oauth_token=qoOciTUQZUKTDpsQkbJZCefNruKPmyvYsBgpNbie&oauth_verifier=ZFJlvllczx" for 127.0.0.1 at 2017-01-08 17:10:08 -0500
+Processing by AlbumsController#callback as HTML
+  Parameters: {"oauth_token"=>"qoOciTUQZUKTDpsQkbJZCefNruKPmyvYsBgpNbie", "oauth_verifier"=>"ZFJlvllczx"}
+Completed 500 Internal Server Error in 65538ms (ActiveRecord: 0.0ms)
+
+OAuth::Error (Invalid Request Token):
+  app/controllers/albums_controller.rb:31:in `callback'
+
+
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_source.erb (16.1ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.9ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.8ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (57.6ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/_markup.html.erb (0.2ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.2ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.2ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/console.js.erb within layouts/javascript (38.6ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/main.js.erb within layouts/javascript (0.2ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.4ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/index.html.erb (81.8ms)
+
+
+Started GET "/" for ::1 at 2017-01-08 17:11:19 -0500
+Processing by AlbumsController#index as HTML
+Redirected to http://www.discogs.com/oauth/authorize?oauth_callback=http%3A%2F%2F127.0.0.1%3A3000%2Fcallback&oauth_token=IdHzzWKGctqxpvjcszbyUnvBIrzbcdmhkbZahaXF
+Completed 302 Found in 24839ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-01-08 17:11:44 -0500
+Processing by AlbumsController#index as HTML
+Redirected to http://www.discogs.com/oauth/authorize?oauth_callback=http%3A%2F%2F127.0.0.1%3A3000%2Fcallback&oauth_token=WvvKRLBLWxnfGafVNWQGWuOLwOnXLsdxVuAhYtBo
+Completed 302 Found in 5097ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/callback?oauth_token=WvvKRLBLWxnfGafVNWQGWuOLwOnXLsdxVuAhYtBo&oauth_verifier=NtmMUcoVJC" for 127.0.0.1 at 2017-01-08 17:11:52 -0500
+Processing by AlbumsController#callback as HTML
+  Parameters: {"oauth_token"=>"WvvKRLBLWxnfGafVNWQGWuOLwOnXLsdxVuAhYtBo", "oauth_verifier"=>"NtmMUcoVJC"}
+Completed 500 Internal Server Error in 542883ms (ActiveRecord: 0.0ms)
+
+OAuth::Error (Invalid Request Token):
+  app/controllers/albums_controller.rb:32:in `callback'
+
+
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_source.erb (4.0ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.3ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.8ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (42.1ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/_markup.html.erb (0.4ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.2ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.2ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/console.js.erb within layouts/javascript (32.1ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/main.js.erb within layouts/javascript (0.3ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.5ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/index.html.erb (82.1ms)
+
+
+Started GET "/" for ::1 at 2017-01-08 17:21:03 -0500
+Processing by AlbumsController#index as HTML
+  Rendered albums/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 97ms (Views: 96.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/foundation.self-9e2a078724c35cb29f9c1d6c2894d45b03cf53499867de8494fe8e6a0f52d1bf.js?body=1" for ::1 at 2017-01-08 17:21:04 -0500
+
+
+Started GET "/assets/application.self-1509cb3433bf7f60a75710bd4d8561d25423676b3c4d4a21914940bf07b8869a.js?body=1" for ::1 at 2017-01-08 17:21:04 -0500
+
+
+Started GET "/" for ::1 at 2017-01-08 17:22:01 -0500
+Processing by AlbumsController#index as HTML
+  Rendered albums/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 89ms (Views: 88.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-01-08 17:22:08 -0500
+Processing by AlbumsController#index as HTML
+  Rendered albums/index.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 128ms (Views: 127.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-01-08 17:22:30 -0500
+Processing by AlbumsController#index as HTML
+  Rendered albums/index.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 85ms (Views: 83.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-01-08 17:22:33 -0500
+Processing by AlbumsController#index as HTML
+  Rendered albums/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 87ms (Views: 86.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-01-08 17:22:35 -0500
+Processing by AlbumsController#index as HTML
+  Rendered albums/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 73ms (Views: 72.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-01-08 17:24:07 -0500
+Processing by AlbumsController#index as HTML
+  Rendered albums/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 69ms (Views: 68.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-01-08 17:24:40 -0500
+Processing by AlbumsController#index as HTML
+  Rendered albums/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 100ms (Views: 99.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-01-08 17:24:46 -0500
+Processing by AlbumsController#index as HTML
+  Rendered albums/index.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 87ms (Views: 86.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-01-08 17:25:21 -0500
+Processing by AlbumsController#index as HTML
+  Rendered albums/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 76ms (Views: 75.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-01-08 17:25:29 -0500
+Processing by AlbumsController#index as HTML
+  Rendered albums/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 81ms (Views: 80.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-01-08 17:25:38 -0500
+Processing by AlbumsController#index as HTML
+  Rendered albums/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 77ms (Views: 76.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-01-08 17:25:44 -0500
+Processing by AlbumsController#index as HTML
+  Rendered albums/index.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 86ms (Views: 85.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-01-08 17:26:52 -0500
+Processing by AlbumsController#index as HTML
+  Rendered albums/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 75ms (Views: 74.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-01-08 17:27:00 -0500
+Processing by AlbumsController#index as HTML
+  Rendered albums/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 75ms (Views: 74.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-01-08 17:27:05 -0500
+Processing by AlbumsController#index as HTML
+  Rendered albums/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 88ms (Views: 87.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-01-08 17:32:24 -0500
+Processing by AlbumsController#index as HTML
+  Rendered albums/index.html.erb within layouts/application (19.6ms)
+Completed 500 Internal Server Error in 27ms (ActiveRecord: 0.0ms)
+
+ActionView::Template::Error (undefined local variable or method `home_action_path' for #<#<Class:0x007ffcaf955d18>:0x007ffcaebc2908>):
+    23:   </div>
+    24: 
+    25:   <div class="row">
+    26:     <%= link_to 'Call Action', home_action_path, method: :post %>
+    27:     <div class="small-2 small-centered column">
+    28:       <button class="button">Authenticate</button>
+    29:     </div>
+  app/views/albums/index.html.erb:26:in `_app_views_albums_index_html_erb___4403643088462443327_70361620023420'
+
+
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_source.erb (6.0ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.6ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.3ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (50.0ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/_markup.html.erb (0.4ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.4ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/console.js.erb within layouts/javascript (39.3ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/main.js.erb within layouts/javascript (0.3ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.4ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/index.html.erb (86.4ms)
+
+
+Started GET "/" for ::1 at 2017-01-08 17:33:58 -0500
+Processing by AlbumsController#index as HTML
+  Rendered albums/index.html.erb within layouts/application (13.1ms)
+Completed 500 Internal Server Error in 20ms (ActiveRecord: 0.0ms)
+
+ActionView::Template::Error (undefined local variable or method `authenticate' for #<#<Class:0x007ffcb20d64a0>:0x007ffcb20d5af0>):
+    23:   </div>
+    24: 
+    25:   <div class="row">
+    26:     <%= link_to 'Call Action', authenticate, method: :post %>
+    27:     <div class="small-2 small-centered column">
+    28:       <button class="button">Authenticate</button>
+    29:     </div>
+  app/views/albums/index.html.erb:26:in `_app_views_albums_index_html_erb___4403643088462443327_70361647850380'
+
+
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_source.erb (6.0ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.8ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.4ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (51.8ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/_markup.html.erb (0.3ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.4ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/console.js.erb within layouts/javascript (42.9ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/main.js.erb within layouts/javascript (0.3ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.5ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/index.html.erb (94.7ms)
+
+
+Started GET "/" for ::1 at 2017-01-08 17:34:13 -0500
+  [1m[36mActiveRecord::SchemaMigration Load (0.6ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by AlbumsController#index as HTML
+  Rendered albums/index.html.erb within layouts/application (25.0ms)
+Completed 500 Internal Server Error in 45ms (ActiveRecord: 0.0ms)
+
+ActionView::Template::Error (undefined local variable or method `authenticate' for #<#<Class:0x007fe25336f7f8>:0x007fe25336e8a8>):
+    23:   </div>
+    24: 
+    25:   <div class="row">
+    26:     <%= link_to 'Call Action', authenticate, method: :post %>
+    27:     <div class="small-2 small-centered column">
+    28:       <button class="button">Authenticate</button>
+    29:     </div>
+  app/views/albums/index.html.erb:26:in `_app_views_albums_index_html_erb__4492744195012928772_70305046658500'
+
+
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_source.erb (11.3ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (5.0ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.7ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (61.8ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/_markup.html.erb (0.4ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.4ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.6ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/console.js.erb within layouts/javascript (44.7ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/main.js.erb within layouts/javascript (0.5ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.5ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/index.html.erb (107.0ms)
+
+
+Started GET "/" for ::1 at 2017-01-08 17:34:58 -0500
+Processing by AlbumsController#index as HTML
+  Rendered albums/index.html.erb within layouts/application (1.3ms)
+Completed 200 OK in 519ms (Views: 517.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-01-08 17:35:28 -0500
+Processing by AlbumsController#index as HTML
+  Rendered albums/index.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 134ms (Views: 133.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-01-08 17:35:38 -0500
+Processing by AlbumsController#index as HTML
+  Rendered albums/index.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 82ms (Views: 80.3ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/authenticate" for ::1 at 2017-01-08 17:35:41 -0500
+
+ActionController::RoutingError (No route matches [POST] "/authenticate"):
+  actionpack (4.2.4) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  web-console (2.2.1) lib/web_console/middleware.rb:39:in `call'
+  actionpack (4.2.4) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.4) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.4) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.4) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.4) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.4) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.4) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.4) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.4) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.4) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.4) lib/action_dispatch/middleware/static.rb:116:in `call'
+  rack (1.6.4) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.4) lib/rails/engine.rb:518:in `call'
+  railties (4.2.4) lib/rails/application.rb:165:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  rack (1.6.4) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.4) lib/rack/handler/webrick.rb:88:in `service'
+  /Users/tobiaskahn/.rubies/ruby-2.2.3/lib/ruby/2.2.0/webrick/httpserver.rb:138:in `service'
+  /Users/tobiaskahn/.rubies/ruby-2.2.3/lib/ruby/2.2.0/webrick/httpserver.rb:94:in `run'
+  /Users/tobiaskahn/.rubies/ruby-2.2.3/lib/ruby/2.2.0/webrick/server.rb:294:in `block in start_thread'
+
+
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.6ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.4ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/routes/_table.html.erb (12.9ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.3ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (73.9ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/_markup.html.erb (0.4ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/console.js.erb within layouts/javascript (38.2ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/main.js.erb within layouts/javascript (0.3ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.4ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/index.html.erb (88.3ms)
+
+
+Started POST "/authenticate" for ::1 at 2017-01-08 17:36:30 -0500
+
+ActionController::RoutingError (No route matches [POST] "/authenticate"):
+  actionpack (4.2.4) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  web-console (2.2.1) lib/web_console/middleware.rb:39:in `call'
+  actionpack (4.2.4) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.4) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.4) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.4) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.4) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.4) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.4) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.4) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.4) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.4) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.4) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.4) lib/action_dispatch/middleware/static.rb:116:in `call'
+  rack (1.6.4) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.4) lib/rails/engine.rb:518:in `call'
+  railties (4.2.4) lib/rails/application.rb:165:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  rack (1.6.4) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.4) lib/rack/handler/webrick.rb:88:in `service'
+  /Users/tobiaskahn/.rubies/ruby-2.2.3/lib/ruby/2.2.0/webrick/httpserver.rb:138:in `service'
+  /Users/tobiaskahn/.rubies/ruby-2.2.3/lib/ruby/2.2.0/webrick/httpserver.rb:94:in `run'
+  /Users/tobiaskahn/.rubies/ruby-2.2.3/lib/ruby/2.2.0/webrick/server.rb:294:in `block in start_thread'
+
+
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.0ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.5ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.2ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.3ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (62.5ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/_markup.html.erb (0.2ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/console.js.erb within layouts/javascript (35.3ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/main.js.erb within layouts/javascript (0.2ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.5ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/index.html.erb (80.0ms)
+
+
+Started GET "/" for ::1 at 2017-01-08 17:36:40 -0500
+Processing by AlbumsController#index as HTML
+  Rendered albums/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 68ms (Views: 67.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/authenticate" for ::1 at 2017-01-08 17:36:42 -0500
+Processing by AlbumsController#authenticate as HTML
+  Parameters: {"authenticity_token"=>"tHaLmCGBCgxdK5Xi4aIn9CaEjrDOwgfEVnkfXvJZozyKErp1geJG7pyj/m6ZAAJ8CVwlaFtPgbCrmrg0+mRj7Q=="}
+Redirected to http://www.discogs.com/oauth/authorize?oauth_callback=http%3A%2F%2F127.0.0.1%3A3000%2Fcallback&oauth_token=HyRsMdShDZSiEXLzSlGDQUKmmrIXdSwnauhBwNYC
+Completed 302 Found in 12496ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/callback?oauth_token=HyRsMdShDZSiEXLzSlGDQUKmmrIXdSwnauhBwNYC&oauth_verifier=WUjMPBAyqw" for 127.0.0.1 at 2017-01-08 17:36:58 -0500
+Processing by AlbumsController#callback as HTML
+  Parameters: {"oauth_token"=>"HyRsMdShDZSiEXLzSlGDQUKmmrIXdSwnauhBwNYC", "oauth_verifier"=>"WUjMPBAyqw"}
+Completed 500 Internal Server Error in 399988ms (ActiveRecord: 0.0ms)
+
+OAuth::Error (Invalid Request Token):
+  app/controllers/albums_controller.rb:30:in `callback'
+
+
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_source.erb (4.6ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.6ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.8ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (49.3ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/_markup.html.erb (0.4ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.2ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/console.js.erb within layouts/javascript (34.5ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/main.js.erb within layouts/javascript (0.6ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.4ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/index.html.erb (83.1ms)
+
+
+Started GET "/" for ::1 at 2017-01-08 17:43:49 -0500
+Processing by AlbumsController#index as HTML
+  Rendered albums/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 67ms (Views: 65.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/authenticate" for ::1 at 2017-01-08 17:43:52 -0500
+Processing by AlbumsController#authenticate as HTML
+  Parameters: {"authenticity_token"=>"j8Y/JR/ZqpIDQTPS8wn6bST2A4JX720Q+7Jq/UA7Zc+xog7Iv7rmcMLJWF6Lq9/lCy6oWsJi62QGUc2XSAalHg=="}
+Redirected to http://www.discogs.com/oauth/authorize?oauth_callback=http%3A%2F%2F127.0.0.1%3A3000%2Fcallback&oauth_token=wMWTRyaCgeRhbYryjvAToDyPWRSFxpIBCWbngTan
+Completed 302 Found in 56203ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/callback?oauth_token=wMWTRyaCgeRhbYryjvAToDyPWRSFxpIBCWbngTan&oauth_verifier=HRthbsObdQ" for 127.0.0.1 at 2017-01-08 17:44:52 -0500
+Processing by AlbumsController#callback as HTML
+  Parameters: {"oauth_token"=>"wMWTRyaCgeRhbYryjvAToDyPWRSFxpIBCWbngTan", "oauth_verifier"=>"HRthbsObdQ"}
+Completed 500 Internal Server Error in 28109ms (ActiveRecord: 0.0ms)
+
+OAuth::Error (Invalid Request Token):
+  app/controllers/albums_controller.rb:30:in `callback'
+
+
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_source.erb (8.7ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (5.1ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (2.9ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (73.9ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/_markup.html.erb (0.6ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.6ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.5ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/console.js.erb within layouts/javascript (51.5ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/main.js.erb within layouts/javascript (0.6ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.7ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/index.html.erb (116.1ms)
+
+
+Started GET "/" for ::1 at 2017-01-08 19:20:54 -0500
+Processing by AlbumsController#index as HTML
+  Rendered albums/index.html.erb within layouts/application (2.5ms)
+Completed 200 OK in 577ms (Views: 571.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-01-08 19:37:47 -0500
+Processing by AlbumsController#index as HTML
+  Rendered albums/index.html.erb within layouts/application (2.6ms)
+Completed 200 OK in 255ms (Views: 249.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-b08fa7117c885cd50aa531cd3d2f190a119b4ba9b19ca2b32df41d8e73616534.css?body=1" for ::1 at 2017-01-08 19:37:47 -0500
+
+
+Started GET "/assets/foundation_and_overrides.self-3d4fab0ef7a5ff4b10fcf9f9348a2b2a3cc5d4156622f5d0c93df1a7b3347669.css?body=1" for ::1 at 2017-01-08 19:37:47 -0500
+
+
+Started GET "/assets/jquery.self-c64a74367bda6ef8b860f19e74df08927ca99d2be2ac934e9e92d5fd361e0da4.js?body=1" for ::1 at 2017-01-08 19:37:47 -0500
+
+
+Started GET "/assets/jquery_ujs.self-d602bdfe68ffc63b9f9cc512872aa3cfff046228a0a36e90dd476e8ef54c1b09.js?body=1" for ::1 at 2017-01-08 19:37:47 -0500
+
+
+Started GET "/assets/foundation.abide.self-51a84bc6ba490a942393bca712c6e7cd9916fc4dc64a7693a8e068cd96085822.js?body=1" for ::1 at 2017-01-08 19:37:47 -0500
+
+
+Started GET "/assets/foundation.core.self-9db1fd25093ee6a0c24fc7b93e9fbc59e1c644cc4d15b9ed07ecbac0f20d2626.js?body=1" for ::1 at 2017-01-08 19:37:47 -0500
+
+
+Started GET "/assets/_settings.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2017-01-08 19:37:47 -0500
+
+
+Started GET "/assets/foundation.accordion.self-9df5b77ee1499f87e2ceec1fa9aef606360cbb33cde0267550c770c8a2a1defa.js?body=1" for ::1 at 2017-01-08 19:37:47 -0500
+
+
+Started GET "/assets/foundation.accordionMenu.self-a3ef925cbb8b5d088243405584d3b27e7ed5b9a0dc008e7e77e6b1080510d4ba.js?body=1" for ::1 at 2017-01-08 19:37:47 -0500
+
+
+Started GET "/assets/foundation.drilldown.self-a9e0067ba5d8fd8d75672ab19982ed5c329d74dd75cb30f00e856e0e0fabe2ee.js?body=1" for ::1 at 2017-01-08 19:37:47 -0500
+
+
+Started GET "/assets/foundation.dropdown.self-90806ac07a897f7e37fbdaf2583a71abcb2ed8424be8acd986c9c73116452cd2.js?body=1" for ::1 at 2017-01-08 19:37:47 -0500
+
+
+Started GET "/assets/foundation.dropdownMenu.self-96b39073b4be2185836ae4b20bf54c0473d7a7e3317799346891d212077af60f.js?body=1" for ::1 at 2017-01-08 19:37:47 -0500
+
+
+Started GET "/assets/foundation.equalizer.self-b0bce90e5c28fc371ca163f9a09af8ea7f7a314420da9dc42b0db6e2ff8b090a.js?body=1" for ::1 at 2017-01-08 19:37:47 -0500
+
+
+Started GET "/assets/foundation.interchange.self-f8cb0c8683255d5f7725537dbefa4315ae27e23edf50952c094f78c60f5d7c13.js?body=1" for ::1 at 2017-01-08 19:37:47 -0500
+
+
+Started GET "/assets/foundation.magellan.self-92f91ef33806348a194e02af23e0aae555a6b5b8299aeac64925c4102c8e2c8a.js?body=1" for ::1 at 2017-01-08 19:37:47 -0500
+
+
+Started GET "/assets/foundation.offcanvas.self-b4b82021c3f2fffc3806622f157c39f2fba47b6ba3f465314e431b5fad3cdd19.js?body=1" for ::1 at 2017-01-08 19:37:47 -0500
+
+
+Started GET "/assets/foundation.orbit.self-ee8eaad4d64ae4fbb802c18eb872041b2c495ae8d5dfcecaad94685fd8eaed96.js?body=1" for ::1 at 2017-01-08 19:37:47 -0500
+
+
+Started GET "/assets/foundation.responsiveMenu.self-51a47c4ccfbb000f4191e3e78f12786b2286291c38fec15c8acf02df5cbf0fbc.js?body=1" for ::1 at 2017-01-08 19:37:47 -0500
+
+
+Started GET "/assets/foundation.responsiveToggle.self-43c40897f3d624778a467deae3abff377aa4acd0f9543e007072e653149fec21.js?body=1" for ::1 at 2017-01-08 19:37:47 -0500
+
+
+Started GET "/assets/foundation.reveal.self-0e230493fd98119c97ce28fbe7c408408f6b7dd4359470e87dd718c372b56199.js?body=1" for ::1 at 2017-01-08 19:37:47 -0500
+
+
+Started GET "/assets/foundation.slider.self-ecb2b1fe3b0cbfd8ed61991b73c4b2cf395342326205391b36a8f44bd8cf5a1c.js?body=1" for ::1 at 2017-01-08 19:37:47 -0500
+
+
+Started GET "/assets/foundation.sticky.self-5ea10bd37a762229edc48713b5c1e31bee363eb4d186d64e1404808dfe145374.js?body=1" for ::1 at 2017-01-08 19:37:47 -0500
+
+
+Started GET "/assets/foundation.tabs.self-9b927908963944f3d531d47080e724fb3bcec8abb988d1496a3d0aaa3ffc03a7.js?body=1" for ::1 at 2017-01-08 19:37:47 -0500
+
+
+Started GET "/assets/foundation.toggler.self-f3dadc2f36d0f19fa8312317cda8c4a8a76a02d62832a6e00caae56d0c55ee28.js?body=1" for ::1 at 2017-01-08 19:37:47 -0500
+
+
+Started GET "/assets/foundation.tooltip.self-7fc36e11e6027270359e3a6936984e4e9a02fbf94e0fcf23c67624f936fb30c8.js?body=1" for ::1 at 2017-01-08 19:37:47 -0500
+
+
+Started GET "/assets/foundation.util.box.self-69c9095c26be30b9b796ec4cc22eb2a694e5c38f5177bcc7b0f7e332c41758b3.js?body=1" for ::1 at 2017-01-08 19:37:47 -0500
+
+
+Started GET "/assets/foundation.util.keyboard.self-2f631ccc194566cde321c90ff1cf9533bcf5838943e6409c73d9c2afd8dfcfc8.js?body=1" for ::1 at 2017-01-08 19:37:47 -0500
+
+
+Started GET "/assets/foundation.util.mediaQuery.self-5db511bec350118db796cd1d02a28f1273b220b149d4022dbd639bba01a1fb2b.js?body=1" for ::1 at 2017-01-08 19:37:48 -0500
+
+
+Started GET "/assets/foundation.util.motion.self-96f5145345f69a7fc9dfc03a47c96917fc09c88cd79cf67475a89ea965a3e0ec.js?body=1" for ::1 at 2017-01-08 19:37:48 -0500
+
+
+Started GET "/assets/foundation.util.nest.self-8a2827a3484912cdf52070c3245611d0f36e9c4aa790f2558f2271f8adb94e38.js?body=1" for ::1 at 2017-01-08 19:37:48 -0500
+
+
+Started GET "/assets/foundation.util.timerAndImageLoader.self-ba42986e203ad89e201ed29d1419b921ef4e9852cc5f2a801347d370a5778c56.js?body=1" for ::1 at 2017-01-08 19:37:48 -0500
+
+
+Started GET "/assets/foundation.util.touch.self-8412fbfe24d1053f3dc12c80ab0ff3dc1524d69de0e154b158c5a6ff0d16d78e.js?body=1" for ::1 at 2017-01-08 19:37:48 -0500
+
+
+Started GET "/assets/foundation.util.triggers.self-5d93ae068164fc4cc4c3e9a8c8cb98bce5922d63594acf8f7225f49a11780535.js?body=1" for ::1 at 2017-01-08 19:37:48 -0500
+
+
+Started GET "/assets/foundation.self-9e2a078724c35cb29f9c1d6c2894d45b03cf53499867de8494fe8e6a0f52d1bf.js?body=1" for ::1 at 2017-01-08 19:37:48 -0500
+
+
+Started GET "/assets/application.self-1509cb3433bf7f60a75710bd4d8561d25423676b3c4d4a21914940bf07b8869a.js?body=1" for ::1 at 2017-01-08 19:37:48 -0500
+
+
+Started GET "/" for ::1 at 2017-01-09 19:45:09 -0500
+  [1m[36mActiveRecord::SchemaMigration Load (1.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by AlbumsController#index as HTML
+  Rendered albums/index.html.erb within layouts/application (2.9ms)
+Completed 200 OK in 642ms (Views: 626.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/authenticate" for ::1 at 2017-01-09 19:45:13 -0500
+Processing by AlbumsController#authenticate as HTML
+  Parameters: {"authenticity_token"=>"dgTSqyZsnluF2fk5TLhr53hYNUIX6w6oxeD19VG5zcdIYONGhg/SuURRkrU0Gk5vV4CemoJmiNw4A1KfWYQNFg=="}
+Redirected to http://www.discogs.com/oauth/authorize?oauth_callback=http%3A%2F%2F127.0.0.1%3A3000%2Fcallback&oauth_token=hTUJxqvzaBGovNTpRPRpBkdmKgwSKPFfIjsjKcWb
+Completed 302 Found in 512ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/callback?oauth_token=hTUJxqvzaBGovNTpRPRpBkdmKgwSKPFfIjsjKcWb&oauth_verifier=NznqlzAicw" for 127.0.0.1 at 2017-01-09 19:45:17 -0500
+Processing by AlbumsController#callback as HTML
+  Parameters: {"oauth_token"=>"hTUJxqvzaBGovNTpRPRpBkdmKgwSKPFfIjsjKcWb", "oauth_verifier"=>"NznqlzAicw"}
+Completed 500 Internal Server Error in 2ms (ActiveRecord: 0.0ms)
+
+OAuth::Error (Invalid Request Token):
+  app/controllers/albums_controller.rb:28:in `callback'
+
+
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_source.erb (5.9ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (3.1ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.1ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (72.2ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/_markup.html.erb (0.6ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.5ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.4ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.5ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/console.js.erb within layouts/javascript (65.3ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/main.js.erb within layouts/javascript (0.5ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.6ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/index.html.erb (145.4ms)
+
+
+Started GET "/" for ::1 at 2017-01-09 19:45:52 -0500
+Processing by AlbumsController#index as HTML
+  Rendered albums/index.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 82ms (Views: 81.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-01-09 19:45:53 -0500
+Processing by AlbumsController#index as HTML
+  Rendered albums/index.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 81ms (Views: 80.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/authenticate" for ::1 at 2017-01-09 19:45:55 -0500
+Processing by AlbumsController#authenticate as HTML
+  Parameters: {"authenticity_token"=>"12D4umCNaaoe1EblKw8erCUvUhahve0va/bh4ihDCu3pBMlXwO4lSN9cLWlTrTskCvf5zjQwa1uWFUaIIH7KPA=="}
+Redirected to http://www.discogs.com/oauth/authorize?oauth_callback=http%3A%2F%2F127.0.0.1%3A3000%2Fcallback&oauth_token=XpOaChtHKTHxUTfbVNykXFpvIRUxtxsnQOWfsIUG
+Completed 302 Found in 465ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/callback?oauth_token=XpOaChtHKTHxUTfbVNykXFpvIRUxtxsnQOWfsIUG&oauth_verifier=PeDAkVgIQQ" for 127.0.0.1 at 2017-01-09 19:45:58 -0500
+Processing by AlbumsController#callback as HTML
+  Parameters: {"oauth_token"=>"XpOaChtHKTHxUTfbVNykXFpvIRUxtxsnQOWfsIUG", "oauth_verifier"=>"PeDAkVgIQQ"}
+Completed 500 Internal Server Error in 80957ms (ActiveRecord: 0.0ms)
+
+OAuth::Error (Invalid Request Token):
+  app/controllers/albums_controller.rb:29:in `callback'
+
+
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_source.erb (4.0ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.9ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.0ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (44.8ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/_markup.html.erb (0.4ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.5ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.4ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.4ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/console.js.erb within layouts/javascript (45.0ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/main.js.erb within layouts/javascript (0.3ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.6ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/index.html.erb (94.1ms)
+
+
+Started GET "/" for ::1 at 2017-01-09 19:47:24 -0500
+Processing by AlbumsController#index as HTML
+  Rendered albums/index.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 149ms (Views: 148.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-01-09 19:47:24 -0500
+Processing by AlbumsController#index as HTML
+  Rendered albums/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 98ms (Views: 96.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/authenticate" for ::1 at 2017-01-09 19:47:27 -0500
+Processing by AlbumsController#authenticate as HTML
+  Parameters: {"authenticity_token"=>"8GlFMwjh9mm1nQOLpssY0W3VzAWw+yMXF3KxtOOXVg/ODXTeqIK6i3QVaAfeaT1ZQg1n3SV2pWPqkRbe66qW3g=="}
+Redirected to http://www.discogs.com/oauth/authorize?oauth_callback=http%3A%2F%2F127.0.0.1%3A3000%2Fcallback&oauth_token=vQvoNPVDJOmAOyqpUUfhvSerwgvTiaYOKGjpbplu
+Completed 302 Found in 478ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/callback?oauth_token=vQvoNPVDJOmAOyqpUUfhvSerwgvTiaYOKGjpbplu&oauth_verifier=dMQwhXkGQA" for 127.0.0.1 at 2017-01-09 19:47:31 -0500
+Processing by AlbumsController#callback as HTML
+  Parameters: {"oauth_token"=>"vQvoNPVDJOmAOyqpUUfhvSerwgvTiaYOKGjpbplu", "oauth_verifier"=>"dMQwhXkGQA"}
+Completed 500 Internal Server Error in 388029ms (ActiveRecord: 0.0ms)
+
+OAuth::Error (Invalid Request Token):
+  app/controllers/albums_controller.rb:29:in `callback'
+
+
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_source.erb (3.3ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.0ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.4ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (42.9ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/_markup.html.erb (0.5ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.2ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/console.js.erb within layouts/javascript (39.0ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/main.js.erb within layouts/javascript (0.3ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.9ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/index.html.erb (91.4ms)
+
+
+Started GET "/" for ::1 at 2017-01-09 19:55:30 -0500
+Processing by AlbumsController#index as HTML
+  Rendered albums/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 101ms (Views: 99.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-01-09 19:55:31 -0500
+Processing by AlbumsController#index as HTML
+  Rendered albums/index.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 94ms (Views: 92.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/authenticate" for ::1 at 2017-01-09 19:55:33 -0500
+Processing by AlbumsController#authenticate as HTML
+  Parameters: {"authenticity_token"=>"fiMALH9lkG23cw99Lvrp2VQYfUfnIc03yZ7H5k7uiatARzHB3wbcj3b7ZPFWWMxRe8DWn3KsS0M0fWCMRtNJeg=="}
+Redirected to http://www.discogs.com/oauth/authorize?oauth_callback=http%3A%2F%2F127.0.0.1%3A3000%2Fcallback&oauth_token=zwgNySmxlwcnhCOeGhkMeExqwyoYVuAXKWzoWGqG
+Completed 302 Found in 39058ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/authenticate" for ::1 at 2017-01-09 19:56:18 -0500
+Processing by AlbumsController#authenticate as HTML
+  Parameters: {"authenticity_token"=>"fiMALH9lkG23cw99Lvrp2VQYfUfnIc03yZ7H5k7uiatARzHB3wbcj3b7ZPFWWMxRe8DWn3KsS0M0fWCMRtNJeg=="}
+Redirected to http://www.discogs.com/oauth/authorize?oauth_callback=http%3A%2F%2F127.0.0.1%3A3000%2Fcallback&oauth_token=JdcrYDukyLZzXxvopieKJhKuVObnBKkcoQVGRsiG
+Completed 302 Found in 467ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/callback?oauth_token=JdcrYDukyLZzXxvopieKJhKuVObnBKkcoQVGRsiG&oauth_verifier=XRXarfnbiT" for 127.0.0.1 at 2017-01-09 19:56:20 -0500
+Processing by AlbumsController#callback as HTML
+  Parameters: {"oauth_token"=>"JdcrYDukyLZzXxvopieKJhKuVObnBKkcoQVGRsiG", "oauth_verifier"=>"XRXarfnbiT"}
+Completed 500 Internal Server Error in 31107ms (ActiveRecord: 0.0ms)
+
+OAuth::Error (Invalid Request Token):
+  app/controllers/albums_controller.rb:29:in `callback'
+
+
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_source.erb (3.1ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.7ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (13.5ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (59.0ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/_markup.html.erb (0.3ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.7ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.2ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/console.js.erb within layouts/javascript (42.9ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/main.js.erb within layouts/javascript (1.0ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.6ms)
+  Rendered /Users/tobiaskahn/.gem/ruby/2.2.3/gems/web-console-2.2.1/lib/web_console/templates/index.html.erb (95.9ms)
