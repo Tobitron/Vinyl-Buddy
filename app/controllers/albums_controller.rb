@@ -15,7 +15,7 @@ class AlbumsController < ApplicationController
 
   # Add an action to initiate the process.
   def authenticate
-    request_data = @discogs.get_request_token("RaPgRAkAJmTPsuBhOZdS", "UunGpzpdipAuAKpNlCIXkbdypqvMDHLC", "http://127.0.0.1:3000/callback")
+    request_data = @discogs.get_request_token("ENV[token]", "ENV[secret]", "http://127.0.0.1:3000/callback")
     session[:request_token] = request_data[:request_token]
     redirect_to request_data[:authorize_url]
   end
