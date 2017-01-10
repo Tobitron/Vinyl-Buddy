@@ -16,15 +16,13 @@ class AlbumsController < ApplicationController
   # Add an action to initiate the process.
   def authenticate
     request_data = @discogs.get_request_token("RaPgRAkAJmTPsuBhOZdS", "UunGpzpdipAuAKpNlCIXkbdypqvMDHLC", "http://127.0.0.1:3000/callback")
-
     session[:request_token] = request_data[:request_token]
     redirect_to request_data[:authorize_url]
   end
 
   # And an action that Discogs will redirect back to.
   def callback
-    binding.pry
-    request_token = session["oauth_token"]
+    request_token = session[:request_token]
     verifier      = params[:oauth_verifier]
     access_token  = @discogs.authenticate(request_token, verifier)
 
